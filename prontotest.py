@@ -4,7 +4,6 @@
 
 """
 Things to address:
-Does it work with .obo files?
 """
 import pronto
 from pronto.relationship import Relationship, RelationshipData
@@ -29,10 +28,10 @@ def prontoRelations(ontoLibrary):
                     file.write(f"{keyName}: {relations}\n")
                 except KeyError as e:
                     pass
-            children: pronto.TermSet = term.subclasses(with_self=True).to_set()
-            file.write(f'children: {children}\n')
+            children: pronto.TermSet = term.subclasses(with_self=True).to_set() #gets subclasses
+            file.write(f'subclasses: {children}\n')
             parents: pronto.TermSet = term.superclasses(with_self=True).to_set()
-            file.write(f'parents: {parents}\n')
+            file.write(f'superclasses: {parents}\n')
 """
     with open('test-pronto-relationships.txt', 'w', encoding='utf-8') as file2:
         for relation in ontoL.relationships():
