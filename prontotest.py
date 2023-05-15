@@ -6,8 +6,6 @@
 Things to address:
 Does it work with .obo files?
 """
-import itertools
-import os
 import pronto
 from pronto.relationship import Relationship, RelationshipData
 def prontoRelations(ontoLibrary):
@@ -21,7 +19,7 @@ def prontoRelations(ontoLibrary):
                 relationshipkeys = sorted(term.relationships.keys())
             except KeyError as e:
                 pass
-             #^this gets the relationships itself,but not the term connected to it
+            #^this gets the relationships itself,but not the term connected to it
             file.write(f'Relationships:\n')
             for key in relationshipkeys:
                 keyID = key.id
