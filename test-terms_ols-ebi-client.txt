@@ -1,0 +1,1247 @@
+<Term(obo_id=AISM:0000150, name=profemoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000150)>
+ancestors:
+<Term(obo_id=AISM:0000147, name=femoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000147)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000147, name=femoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000147)>
+ancestors:
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000148, name=tibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000148)>
+ancestors:
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+ancestors:
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+ancestors:
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000149, name=pretarsal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000149)>
+ancestors:
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000028, name=solid cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000028)>
+ancestors:
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+ancestors:
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+ancestors:
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000140, name=taenidium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000140)>
+ancestors:
+<Term(obo_id=AISM:0000158, name=ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000158)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000158, name=ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000158)>
+ancestors:
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000141, name=mesofurca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000141)>
+ancestors:
+<Term(obo_id=AISM:0000144, name=furca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000144)>
+<Term(obo_id=AISM:0000138, name=apophysis, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000138)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000144, name=furca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000144)>
+ancestors:
+<Term(obo_id=AISM:0000138, name=apophysis, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000138)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000020, name=dorsal second axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000020)>
+ancestors:
+<Term(obo_id=AISM:0004161, name=axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004161)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0004161, name=axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004161)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000142, name=metafurca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000142)>
+ancestors:
+<Term(obo_id=AISM:0000144, name=furca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000144)>
+<Term(obo_id=AISM:0000138, name=apophysis, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000138)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000021, name=abdominal tergite I, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000021)>
+ancestors:
+<Term(obo_id=AISM:0004057, name=abdominal tergite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004057)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0004057, name=abdominal tergite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004057)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000143, name=profurca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000143)>
+ancestors:
+<Term(obo_id=AISM:0000144, name=furca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000144)>
+<Term(obo_id=AISM:0000138, name=apophysis, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000138)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000022, name=first axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000022)>
+ancestors:
+<Term(obo_id=AISM:0004161, name=axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004161)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000138, name=apophysis, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000138)>
+ancestors:
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+ancestors:
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000023, name=galea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000023)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000145, name=procoxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000145)>
+ancestors:
+<Term(obo_id=AISM:0000086, name=coxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000086)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000086, name=coxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000086)>
+ancestors:
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000024, name=labial palpus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000024)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000146, name=metacoxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000146)>
+ancestors:
+<Term(obo_id=AISM:0000086, name=coxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000086)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=PATO:0000587, name=decreased size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000587)>
+ancestors:
+<Term(obo_id=PATO:0000117, name=size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000117)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=PATO:0000117, name=size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000117)>
+<Term(obo_id=PATO:0000117, name=size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000117)> has no ancestors
+<Term(obo_id=AISM:0000026, name=lacinia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000026)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=PATO:0000591, name=increased thickness, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000591)>
+ancestors:
+<Term(obo_id=PATO:0000915, name=thickness, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000915)>
+<Term(obo_id=PATO:0000117, name=size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000117)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=PATO:0000915, name=thickness, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000915)>
+ancestors:
+<Term(obo_id=PATO:0000117, name=size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000117)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=PATO:0000592, name=decreased thickness, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000592)>
+ancestors:
+<Term(obo_id=PATO:0000915, name=thickness, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000915)>
+<Term(obo_id=PATO:0000117, name=size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000117)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=PATO:0000587, name=decreased size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000587)>
+<Term(obo_id=AISM:0000137, name=malphigian tube, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000137)>
+ancestors:
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000016, name=cranio-antennal articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000016)>
+ancestors:
+<Term(obo_id=AISM:0000002, name=insect articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000002)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000002, name=insect articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000002)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+ancestors:
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000017, name=head-cervical articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000017)>
+ancestors:
+<Term(obo_id=AISM:0000002, name=insect articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000002)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000018, name=cardo, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000018)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000019, name=head capsule, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000019)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=PATO:0002539, name=ring shaped, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0002539)>
+ancestors:
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)>
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)> has no ancestors
+<Term(obo_id=AISM:0000130, name=uniporous sensillum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000130)>
+ancestors:
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+ancestors:
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)> has no ancestors
+<Term(obo_id=AISM:0000131, name=multiporous sensillum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000131)>
+ancestors:
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000132, name=placoid sensillum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000132)>
+ancestors:
+<Term(obo_id=AISM:0000133, name=multiporous plate, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000133)>
+<Term(obo_id=AISM:0000131, name=multiporous sensillum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000131)>
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000133, name=multiporous plate, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000133)>
+ancestors:
+<Term(obo_id=AISM:0000131, name=multiporous sensillum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000131)>
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000134, name=exocrine gland duct, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000134)>
+ancestors:
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000013, name=evaginated, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000013)>
+ancestors:
+<Term(obo_id=PATO:0001355, name=convex, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001355)>
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=PATO:0001355, name=convex, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001355)>
+ancestors:
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000135, name=spiracle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000135)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+ancestors:
+<Term(obo_id=AISM:0000014, name=cranio-mandibular articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000014)>
+ancestors:
+<Term(obo_id=AISM:0000002, name=insect articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000002)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000015, name=cranio-cardinal articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000015)>
+ancestors:
+<Term(obo_id=AISM:0000002, name=insect articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000002)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000170, name=metapectus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000170)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000050, name=paraglossa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000050)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000172, name=intertarsomeral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000172)>
+ancestors:
+<Term(obo_id=AISM:0000102, name=ring conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000102)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000102, name=ring conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000102)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000051, name=maxillary palpus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000051)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000049, name=glossa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000049)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=PATO:0001419, name=sharp, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001419)>
+ancestors:
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000162, name=sulcus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000162)>
+ancestors:
+<Term(obo_id=AISM:0000157, name=groove, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000157)>
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000157, name=groove, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000157)>
+ancestors:
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000041, name=scale, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000041)>
+ancestors:
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000163, name=discrimen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000163)>
+ancestors:
+<Term(obo_id=AISM:0000162, name=sulcus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000162)>
+<Term(obo_id=AISM:0000157, name=groove, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000157)>
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000042, name=labrum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000042)>
+ancestors:
+<Term(obo_id=AISM:0000165, name=mouthpart, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000165)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000165, name=mouthpart, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000165)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000043, name=insect mandible, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000043)>
+ancestors:
+<Term(obo_id=AISM:0000165, name=mouthpart, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000165)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000044, name=insect maxilla, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000044)>
+ancestors:
+<Term(obo_id=AISM:0000165, name=mouthpart, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000165)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000166, name=propleuro-procoxal artiulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000166)>
+ancestors:
+<Term(obo_id=AISM:0000002, name=insect articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000002)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000045, name=mesothoracic-metathoracic conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000045)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000167, name=articular surface, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000167)>
+ancestors:
+<Term(obo_id=UBERON:0006984, name=anatomical surface, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0006984)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=UBERON:0006984, name=anatomical surface, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0006984)>
+<Term(obo_id=UBERON:0006984, name=anatomical surface, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0006984)> has no ancestors
+<Term(obo_id=AISM:0000046, name=prothoracic-mesothoracic conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000046)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000168, name=salivary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000168)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000047, name=pretarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000047)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000169, name=metanotum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000169)>
+ancestors:
+<Term(obo_id=AISM:0004128, name=notum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004128)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0004128, name=notum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004128)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000048, name=ligula, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000048)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000160, name=pouch, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000160)>
+ancestors:
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000161, name=discrimenal lamella, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000161)>
+ancestors:
+<Term(obo_id=AISM:0000158, name=ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000158)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000040, name=spur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000040)>
+ancestors:
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000159, name=salivarium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000159)>
+ancestors:
+<Term(obo_id=AISM:0000160, name=pouch, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000160)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000038, name=hind wing, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000038)>
+ancestors:
+<Term(obo_id=AISM:0000033, name=insect wing, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000033)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000033, name=insect wing, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000033)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+ancestors:
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000151, name=mesofemoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000151)>
+ancestors:
+<Term(obo_id=AISM:0000147, name=femoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000147)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000152, name=metafemoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000152)>
+ancestors:
+<Term(obo_id=AISM:0000147, name=femoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000147)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000031, name=insect leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000031)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000153, name=protibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000153)>
+ancestors:
+<Term(obo_id=AISM:0000148, name=tibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000148)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000032, name=antenna, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000032)>
+ancestors:
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000154, name=mesotibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000154)>
+ancestors:
+<Term(obo_id=AISM:0000148, name=tibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000148)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000155, name=metatibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000155)>
+ancestors:
+<Term(obo_id=AISM:0000148, name=tibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000148)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000034, name=fore leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000034)>
+ancestors:
+<Term(obo_id=AISM:0000031, name=insect leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000031)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000156, name=fovea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000156)>
+ancestors:
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000035, name=mid leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000035)>
+ancestors:
+<Term(obo_id=AISM:0000031, name=insect leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000031)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=PATO:0001543, name=flexibility, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001543)>
+<Term(obo_id=PATO:0001543, name=flexibility, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001543)> has no ancestors
+<Term(obo_id=AISM:0000036, name=hind leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000036)>
+ancestors:
+<Term(obo_id=AISM:0000031, name=insect leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000031)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000037, name=fore wing, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000037)>
+ancestors:
+<Term(obo_id=AISM:0000033, name=insect wing, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000033)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000190, name=antennifer, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000190)>
+ancestors:
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000191, name=tentorium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000191)>
+ancestors:
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000070, name=profemur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000070)>
+ancestors:
+<Term(obo_id=AISM:0000076, name=femur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000076)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000076, name=femur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000076)>
+ancestors:
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000192, name=tentorio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000192)>
+ancestors:
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+ancestors:
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000071, name=mesofemur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000071)>
+ancestors:
+<Term(obo_id=AISM:0000076, name=femur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000076)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000193, name=cuticular pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000193)>
+ancestors:
+<Term(obo_id=AISM:0000156, name=fovea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000156)>
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000072, name=metafemur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000072)>
+ancestors:
+<Term(obo_id=AISM:0000076, name=femur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000076)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000194, name=anterior tentorial pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000194)>
+ancestors:
+<Term(obo_id=AISM:0000196, name=tentorial pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000196)>
+<Term(obo_id=AISM:0000193, name=cuticular pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000193)>
+<Term(obo_id=AISM:0000156, name=fovea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000156)>
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000196, name=tentorial pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000196)>
+ancestors:
+<Term(obo_id=AISM:0000193, name=cuticular pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000193)>
+<Term(obo_id=AISM:0000156, name=fovea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000156)>
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000073, name=mere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000073)>
+ancestors:
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002008, name=medial scapo-pedicellar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002008)>
+ancestors:
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+ancestors:
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002007, name=lateral scapo-pedicellar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002007)>
+ancestors:
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002009, name=frontolabral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002009)>
+ancestors:
+<Term(obo_id=AISM:0000084, name=cranio-labral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000084)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000084, name=cranio-labral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000084)>
+ancestors:
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+ancestors:
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000185, name=sensillum chaeticum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000185)>
+ancestors:
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000064, name=mesocoxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000064)>
+ancestors:
+<Term(obo_id=AISM:0000077, name=coxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000077)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000077, name=coxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000077)>
+ancestors:
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000186, name=sensillum trichodeum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000186)>
+ancestors:
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000065, name=metacoxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000065)>
+ancestors:
+<Term(obo_id=AISM:0000077, name=coxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000077)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002002, name=anterior tentorio-scapal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002002)>
+ancestors:
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000187, name=sensillum coeloconicum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000187)>
+ancestors:
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000066, name=procoxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000066)>
+ancestors:
+<Term(obo_id=AISM:0000077, name=coxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000077)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000067, name=protibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000067)>
+ancestors:
+<Term(obo_id=AISM:0000075, name=tibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000075)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000075, name=tibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000075)>
+ancestors:
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002004, name=lateral tentorio-scapal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002004)>
+ancestors:
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000189, name=sensillum basiconicum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000189)>
+ancestors:
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0002003, name=posterior tentorio-scapal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002003)>
+ancestors:
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000068, name=mesotibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000068)>
+ancestors:
+<Term(obo_id=AISM:0000075, name=tibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000075)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002006, name=fronto-pedicellar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002006)>
+ancestors:
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000069, name=metatibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000069)>
+ancestors:
+<Term(obo_id=AISM:0000075, name=tibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000075)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002005, name=medial tentorio-scapal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002005)>
+ancestors:
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000060, name=labial palpomere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000060)>
+ancestors:
+<Term(obo_id=AISM:0000073, name=mere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000073)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000061, name=prosternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000061)>
+ancestors:
+<Term(obo_id=AISM:0004130, name=sternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004130)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0004130, name=sternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004130)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=BSPO:0000062, name=distal side, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000062)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)> has no ancestors
+<Term(obo_id=PR:Q9V7U0, name=pro-resilin (fruit fly), ontology_id=lepao, namespace=lepao subsets=None, short_form=PR_Q9V7U0)>
+<Term(obo_id=PR:Q9V7U0, name=pro-resilin (fruit fly), ontology_id=lepao, namespace=lepao subsets=None, short_form=PR_Q9V7U0)> has no ancestors
+<Term(obo_id=BSPO:0000061, name=proximal side, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000061)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=UBERON:0000955, name=brain, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000955)>
+ancestors:
+<Term(obo_id=LEPAO:0000006, name=anatomical entity, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000006)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=LEPAO:0000006, name=anatomical entity, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000006)>
+<Term(obo_id=LEPAO:0000006, name=anatomical entity, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000006)> has no ancestors
+<Term(obo_id=BSPO:0000069, name=dorso-medial region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000069)>
+ancestors:
+<Term(obo_id=BSPO:0000079, name=dorsal region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000079)>
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000083, name=medial region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000083)>
+<Term(obo_id=BSPO:0000079, name=dorsal region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000079)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000083, name=medial region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000083)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000173, name=basal coxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000173)>
+ancestors:
+<Term(obo_id=AISM:0000102, name=ring conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000102)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000052, name=mesonotum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000052)>
+ancestors:
+<Term(obo_id=AISM:0004128, name=notum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004128)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000053, name=mesopectus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000053)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000054, name=mesotrochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000054)>
+ancestors:
+<Term(obo_id=AISM:0004135, name=trochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004135)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0004135, name=trochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004135)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=PATO:0002219, name=fan-shaped, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0002219)>
+ancestors:
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000055, name=protrochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000055)>
+ancestors:
+<Term(obo_id=AISM:0004135, name=trochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004135)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000177, name=pore canal, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000177)>
+ancestors:
+<Term(obo_id=UBERON:0000464, name=anatomical space, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000464)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=UBERON:0000464, name=anatomical space, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000464)>
+<Term(obo_id=UBERON:0000464, name=anatomical space, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000464)> has no ancestors
+<Term(obo_id=PATO:0001369, name=raised, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001369)>
+ancestors:
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000056, name=metatrochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000056)>
+ancestors:
+<Term(obo_id=AISM:0004135, name=trochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004135)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000178, name=acantha, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000178)>
+ancestors:
+<Term(obo_id=AISM:0000028, name=solid cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000028)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000057, name=prementum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000057)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000058, name=prepectus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000058)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000059, name=pronotum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000059)>
+ancestors:
+<Term(obo_id=AISM:0004128, name=notum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004128)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000090, name=cuticular tendon, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000090)>
+ancestors:
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000007, name=elastic cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000007)>
+<Term(obo_id=AISM:0000007, name=elastic cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000007)>
+ancestors:
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000091, name=trachea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000091)>
+ancestors:
+<Term(obo_id=AISM:0000007, name=elastic cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000007)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000093, name=hypopharynx, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000093)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002031, name=stipital ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002031)>
+ancestors:
+<Term(obo_id=AISM:0000158, name=ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000158)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000094, name=mesopleuro-metapleural conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000094)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000095, name=metasterno-metacoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000095)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002030, name=anterior tentorio-stipital muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002030)>
+ancestors:
+<Term(obo_id=AISM:0002026, name=insect cranio-maxillar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002026)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002026, name=insect cranio-maxillar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002026)>
+ancestors:
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000072, name=posterior region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000072)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000071, name=anterior region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000071)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004209, name=pronoto-mesonotal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004209)>
+ancestors:
+<Term(obo_id=AISM:0004208, name=tergo-tergal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004208)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004208, name=tergo-tergal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004208)>
+ancestors:
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002029, name=tentorio-cardinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002029)>
+ancestors:
+<Term(obo_id=AISM:0002026, name=insect cranio-maxillar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002026)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004207, name=metanoto-metatrochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004207)>
+ancestors:
+<Term(obo_id=AISM:0004204, name=tergo-trochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004204)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004204, name=tergo-trochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004204)>
+ancestors:
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+ancestors:
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000077, name=proximal region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000077)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004201, name=phallobasal-parameral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004201)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000085, name=mesocoxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000085)>
+ancestors:
+<Term(obo_id=AISM:0000086, name=coxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000086)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002022, name=superolateral tentorio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002022)>
+ancestors:
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+ancestors:
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002021, name=hypopharyngeomandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002021)>
+ancestors:
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004202, name=propleuro-prosternal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004202)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000087, name=labium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000087)>
+ancestors:
+<Term(obo_id=AISM:0000165, name=mouthpart, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000165)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002024, name=superomedial tentorio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002024)>
+ancestors:
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004200, name=paramero-aedeagal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004200)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002023, name=inferolateral tentorio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002023)>
+ancestors:
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000088, name=eye cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000088)>
+ancestors:
+<Term(obo_id=AISM:0000007, name=elastic cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000007)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0004205, name=pronoto-protrochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004205)>
+ancestors:
+<Term(obo_id=AISM:0004204, name=tergo-trochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004204)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000089, name=ligament, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000089)>
+ancestors:
+<Term(obo_id=AISM:0000007, name=elastic cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000007)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+ancestors:
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004206, name=mesonoto-mesotrochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004206)>
+ancestors:
+<Term(obo_id=AISM:0004204, name=tergo-trochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004204)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002025, name=inferomedial tentorio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002025)>
+ancestors:
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002028, name=cranio-lacinial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002028)>
+ancestors:
+<Term(obo_id=AISM:0002026, name=insect cranio-maxillar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002026)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004203, name=basal wing conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004203)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002027, name=cranio-cardinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002027)>
+ancestors:
+<Term(obo_id=AISM:0002026, name=insect cranio-maxillar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002026)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000083, name=cranio-labial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000083)>
+ancestors:
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000084, name=ventral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000084)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000085, name=ventro-lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000085)>
+ancestors:
+<Term(obo_id=BSPO:0000084, name=ventral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000084)>
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000082, name=lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000082)>
+<Term(obo_id=BSPO:0000082, name=lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000082)>
+ancestors:
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000080, name=dorso-lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000080)>
+ancestors:
+<Term(obo_id=BSPO:0000079, name=dorsal region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000079)>
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=BSPO:0000082, name=lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000082)>
+<Term(obo_id=AISM:0002019, name=suspensorium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002019)>
+ancestors:
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002018, name=anteroexternal cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002018)>
+ancestors:
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000195, name=posterior tetorial pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000195)>
+ancestors:
+<Term(obo_id=AISM:0000196, name=tentorial pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000196)>
+<Term(obo_id=AISM:0000193, name=cuticular pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000193)>
+<Term(obo_id=AISM:0000156, name=fovea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000156)>
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000074, name=tarsomere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000074)>
+ancestors:
+<Term(obo_id=AISM:0000073, name=mere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000073)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002011, name=frontoepypharyngeal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002011)>
+ancestors:
+<Term(obo_id=AISM:0000084, name=cranio-labral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000084)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002010, name=epistoepipharyngeal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002010)>
+ancestors:
+<Term(obo_id=AISM:0000084, name=cranio-labral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000084)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000197, name=arthropod foramen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000197)>
+ancestors:
+<Term(obo_id=UBERON:0000464, name=anatomical space, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000464)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002013, name=transversal labral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002013)>
+ancestors:
+<Term(obo_id=AISM:0000084, name=cranio-labral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000084)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000198, name=antennal foramen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000198)>
+ancestors:
+<Term(obo_id=AISM:0000197, name=arthropod foramen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000197)>
+<Term(obo_id=UBERON:0000464, name=anatomical space, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000464)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002012, name=tormae, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002012)>
+ancestors:
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002014, name=internal cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002014)>
+ancestors:
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0002017, name=posteroexternal cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002017)>
+ancestors:
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0004230, name=mesopleuro-mesocoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004230)>
+ancestors:
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0002051, name=tentorio-premental muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002051)>
+ancestors:
+<Term(obo_id=AISM:0000083, name=cranio-labial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000083)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
