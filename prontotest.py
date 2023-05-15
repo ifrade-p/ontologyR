@@ -19,7 +19,7 @@ def prontoRelations(ontoLibrary):
                 relationshipkeys = sorted(term.relationships.keys())
             except KeyError as e:
                 pass
-             #^this gets the relationships itself,but not the term connected to it
+            #^this gets the relationships itself,but not the term connected to it
             file.write(f'Relationships:\n')
             for key in relationshipkeys:
                 keyID = key.id
