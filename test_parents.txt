@@ -1,0 +1,2244 @@
+Class: reports.FBgn0034157
+Parent Classes: [owl.Thing, reports.FBgn0034157]
+
+Class: obo.AISM_0000000
+Parent Classes: [obo.AISM_0000000, owl.Thing]
+
+Class: obo.AISM_0000002
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000002]
+
+Class: obo.AISM_0000003
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0000004
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0000005
+Parent Classes: [obo.AISM_0000005, owl.Thing]
+
+Class: obo.AISM_0000006
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000006]
+
+Class: obo.AISM_0000007
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000007]
+
+Class: obo.AISM_0000008
+Parent Classes: [obo.AISM_0000008, owl.Thing]
+
+Class: obo.AISM_0000013
+Parent Classes: [obo.AISM_0000013, owl.Thing, obo.PATO_0001355, obo.PATO_0000052]
+
+Class: obo.AISM_0000014
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000014, obo.AISM_0000002]
+
+Class: obo.AISM_0000015
+Parent Classes: [owl.Thing, obo.AISM_0000015, obo.AISM_0000174, obo.AISM_0000002]
+
+Class: obo.AISM_0000016
+Parent Classes: [obo.AISM_0000016, owl.Thing, obo.AISM_0000174, obo.AISM_0000002]
+
+Class: obo.AISM_0000017
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000002, obo.AISM_0000017]
+
+Class: obo.AISM_0000018
+Parent Classes: [obo.AISM_0000003, owl.Thing, obo.AISM_0000018, obo.AISM_0000174]
+
+Class: obo.AISM_0000019
+Parent Classes: [obo.AISM_0000019, obo.AISM_0000003, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0000020
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0000020, obo.AISM_0004161]
+
+Class: obo.AISM_0000021
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000021, obo.AISM_0000174, obo.AISM_0004057]
+
+Class: obo.AISM_0000022
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0000022, obo.AISM_0004161]
+
+Class: obo.AISM_0000023
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000023, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008]
+
+Class: obo.AISM_0000024
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000024]
+
+Class: obo.AISM_0000026
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000026]
+
+Class: obo.AISM_0000027
+Parent Classes: [obo.AISM_0000008, obo.AISM_0000027, owl.Thing]
+
+Class: obo.AISM_0000028
+Parent Classes: [obo.AISM_0000008, owl.Thing, obo.AISM_0000028]
+
+Class: obo.AISM_0000029
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008]
+
+Class: obo.AISM_0000031
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000031, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008]
+
+Class: obo.AISM_0000032
+Parent Classes: [obo.AISM_0000032, owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008]
+
+Class: obo.AISM_0000033
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000033]
+
+Class: obo.AISM_0000034
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000031, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000034, obo.AISM_0000008]
+
+Class: obo.AISM_0000035
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000031, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000035]
+
+Class: obo.AISM_0000036
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000031, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000036]
+
+Class: obo.AISM_0000037
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000037, obo.AISM_0000033]
+
+Class: obo.AISM_0000038
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000033, obo.AISM_0000038]
+
+Class: obo.AISM_0000039
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127]
+
+Class: obo.AISM_0000040
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000040]
+
+Class: obo.AISM_0000041
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127, obo.AISM_0000041]
+
+Class: obo.AISM_0000042
+Parent Classes: [obo.AISM_0000165, owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000042]
+
+Class: obo.AISM_0000043
+Parent Classes: [obo.AISM_0000165, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000043]
+
+Class: obo.AISM_0000044
+Parent Classes: [obo.AISM_0000165, owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000044]
+
+Class: obo.AISM_0000045
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000045, obo.AISM_0000004]
+
+Class: obo.AISM_0000046
+Parent Classes: [owl.Thing, obo.AISM_0000046, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0000047
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000047]
+
+Class: obo.AISM_0000048
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000048]
+
+Class: obo.AISM_0000049
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000049]
+
+Class: obo.AISM_0000050
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000050]
+
+Class: obo.AISM_0000051
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000051]
+
+Class: obo.AISM_0000052
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004128, obo.AISM_0000052]
+
+Class: obo.AISM_0000053
+Parent Classes: [obo.AISM_0000003, owl.Thing, obo.AISM_0000053, obo.AISM_0000174]
+
+Class: obo.AISM_0000054
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000054, obo.AISM_0004135]
+
+Class: obo.AISM_0000055
+Parent Classes: [obo.AISM_0000055, owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004135]
+
+Class: obo.AISM_0000056
+Parent Classes: [obo.AISM_0000056, owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004135]
+
+Class: obo.AISM_0000057
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000057]
+
+Class: obo.AISM_0000058
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000058, obo.AISM_0000174]
+
+Class: obo.AISM_0000059
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004128, obo.AISM_0000059]
+
+Class: obo.AISM_0000060
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0000060, obo.AISM_0000073, obo.AISM_0000062]
+
+Class: obo.AISM_0000061
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000061, obo.AISM_0004130]
+
+Class: obo.AISM_0000062
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000062]
+
+Class: obo.AISM_0000063
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000062]
+
+Class: obo.AISM_0000064
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000064, obo.AISM_0000077, obo.AISM_0000062]
+
+Class: obo.AISM_0000065
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000065, obo.AISM_0000077, obo.AISM_0000062]
+
+Class: obo.AISM_0000066
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000066, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000077, obo.AISM_0000062]
+
+Class: obo.AISM_0000067
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000075, owl.Thing, obo.AISM_0000067, obo.AISM_0000062]
+
+Class: obo.AISM_0000068
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000075, owl.Thing, obo.AISM_0000068, obo.AISM_0000062]
+
+Class: obo.AISM_0000069
+Parent Classes: [obo.AISM_0000069, obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000075, owl.Thing, obo.AISM_0000062]
+
+Class: obo.AISM_0000070
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000070, obo.AISM_0000076, obo.AISM_0000062]
+
+Class: obo.AISM_0000071
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000071, obo.AISM_0000076, obo.AISM_0000062]
+
+Class: obo.AISM_0000072
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000072, obo.AISM_0000076, obo.AISM_0000062]
+
+Class: obo.AISM_0000073
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0000062]
+
+Class: obo.AISM_0000074
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000074, obo.AISM_0000073, obo.AISM_0000062]
+
+Class: obo.AISM_0000075
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0000075, owl.Thing, obo.AISM_0000062]
+
+Class: obo.AISM_0000076
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000076, obo.AISM_0000062]
+
+Class: obo.AISM_0000077
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000077, obo.AISM_0000062]
+
+Class: obo.AISM_0000080
+Parent Classes: [obo.AISM_0000080, owl.Thing, obo.LEPAO_0000001, obo.UBERON_0001134]
+
+Class: obo.AISM_0000081
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0000081]
+
+Class: obo.AISM_0000082
+Parent Classes: [owl.Thing, obo.AISM_0000082, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000083
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000084
+Parent Classes: [owl.Thing, obo.AISM_0000084, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000085
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.UBERON_0001134, obo.AISM_0000086, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0000085]
+
+Class: obo.AISM_0000086
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.UBERON_0001134, obo.AISM_0000086, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000087
+Parent Classes: [obo.AISM_0000165, owl.Thing, obo.AISM_0000087, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008]
+
+Class: obo.AISM_0000088
+Parent Classes: [obo.AISM_0000088, obo.AISM_0000174, owl.Thing, obo.AISM_0000007]
+
+Class: obo.AISM_0000089
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000007, obo.AISM_0000089]
+
+Class: obo.AISM_0000090
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000007, obo.AISM_0000090, obo.AISM_0000006]
+
+Class: obo.AISM_0000091
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000091, obo.AISM_0000007, obo.AISM_0000006, obo.AISM_0000136]
+
+Class: obo.AISM_0000093
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000093, obo.AISM_0000004]
+
+Class: obo.AISM_0000094
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000094, obo.AISM_0000004]
+
+Class: obo.AISM_0000095
+Parent Classes: [owl.Thing, obo.AISM_0000095, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0000096
+Parent Classes: [obo.AISM_0000096, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0000097
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0000097]
+
+Class: obo.AISM_0000098
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000098, obo.AISM_0000004]
+
+Class: obo.AISM_0000099
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000099, obo.AISM_0000004]
+
+Class: obo.AISM_0000100
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000100, obo.AISM_0000004]
+
+Class: obo.AISM_0000101
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0000101]
+
+Class: obo.AISM_0000102
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0000103
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000173, obo.AISM_0000004, obo.AISM_0000103]
+
+Class: obo.AISM_0000104
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000173, obo.AISM_0000104, obo.AISM_0000004]
+
+Class: obo.AISM_0000105
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0000105]
+
+Class: obo.AISM_0000106
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000173, obo.AISM_0000004, obo.AISM_0000106]
+
+Class: obo.AISM_0000107
+Parent Classes: [owl.Thing, obo.UBERON_6007284, obo.AISM_0000174, obo.AISM_0000107, obo.LEPAO_0000079, obo.UBERON_6007289, obo.LEPAO_0000006]
+
+Class: obo.AISM_0000108
+Parent Classes: [obo.AISM_0000108, owl.Thing, obo.AISM_0000174, obo.UBERON_6007284, obo.LEPAO_0000079, obo.UBERON_6007289, obo.LEPAO_0000006]
+
+Class: obo.AISM_0000109
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.UBERON_6007284, obo.LEPAO_0000079, obo.UBERON_6007289, obo.LEPAO_0000006, obo.AISM_0000109]
+
+Class: obo.AISM_0000110
+Parent Classes: [owl.Thing, obo.AISM_0000110, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0000111
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000111]
+
+Class: obo.AISM_0000112
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0000112]
+
+Class: obo.AISM_0000113
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000113, obo.AISM_0000174, owl.Thing, obo.AISM_0000062]
+
+Class: obo.AISM_0000114
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000114, obo.AISM_0000004]
+
+Class: obo.AISM_0000115
+Parent Classes: [obo.AISM_0000115, obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000062]
+
+Class: obo.AISM_0000116
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0000116, obo.AISM_0000062]
+
+Class: obo.AISM_0000117
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0000117, obo.AISM_0000116, obo.AISM_0000062]
+
+Class: obo.AISM_0000118
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0000118, obo.AISM_0000004]
+
+Class: obo.AISM_0000119
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000119, obo.AISM_0004129]
+
+Class: obo.AISM_0000120
+Parent Classes: [obo.AISM_0000120, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0000121
+Parent Classes: [obo.AISM_0000121, owl.Thing, obo.AISM_0000174, obo.AISM_0004130]
+
+Class: obo.AISM_0000123
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000123, obo.AISM_0000004, obo.AISM_0004170]
+
+Class: obo.AISM_0000124
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000124, obo.AISM_0000004, obo.AISM_0004170]
+
+Class: obo.AISM_0000125
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000125, obo.AISM_0000004, obo.AISM_0004170]
+
+Class: obo.AISM_0000126
+Parent Classes: [obo.AISM_0000126, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0000127
+Parent Classes: [obo.AISM_0000008, obo.AISM_0000127, obo.AISM_0000027, owl.Thing]
+
+Class: obo.AISM_0000128
+Parent Classes: [obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000027, owl.Thing]
+
+Class: obo.AISM_0000130
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000130, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127]
+
+Class: obo.AISM_0000131
+Parent Classes: [obo.AISM_0000131, owl.Thing, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127]
+
+Class: obo.AISM_0000132
+Parent Classes: [obo.AISM_0000131, owl.Thing, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127, obo.AISM_0000132, obo.AISM_0000133]
+
+Class: obo.AISM_0000133
+Parent Classes: [obo.AISM_0000131, owl.Thing, obo.AISM_0000174, obo.AISM_0000039, obo.AISM_0000003, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127, obo.AISM_0000133]
+
+Class: obo.AISM_0000134
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000134, obo.AISM_0000006, obo.AISM_0000136]
+
+Class: obo.AISM_0000135
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000135]
+
+Class: obo.AISM_0000136
+Parent Classes: [obo.AISM_0000136, obo.AISM_0000174, obo.AISM_0000006, owl.Thing]
+
+Class: obo.AISM_0000137
+Parent Classes: [obo.AISM_0000137, obo.AISM_0000174, owl.Thing, obo.AISM_0000006, obo.AISM_0000136]
+
+Class: obo.AISM_0000138
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000000, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000188]
+
+Class: obo.AISM_0000140
+Parent Classes: [obo.AISM_0000000, owl.Thing, obo.AISM_0000158, obo.AISM_0000140]
+
+Class: obo.AISM_0000141
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000144, obo.AISM_0000000, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000136, obo.AISM_0000188, obo.AISM_0000141]
+
+Class: obo.AISM_0000142
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000142, obo.AISM_0000144, obo.AISM_0000000, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000136, obo.AISM_0000188]
+
+Class: obo.AISM_0000143
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000144, obo.AISM_0000000, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000143, obo.AISM_0000136, obo.AISM_0000188]
+
+Class: obo.AISM_0000144
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000144, obo.AISM_0000000, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000136, obo.AISM_0000188]
+
+Class: obo.AISM_0000145
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.UBERON_0001134, obo.AISM_0000086, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0000145]
+
+Class: obo.AISM_0000146
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.UBERON_0001134, obo.AISM_0000086, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0000146]
+
+Class: obo.AISM_0000147
+Parent Classes: [obo.AISM_0002064, obo.AISM_0000147, owl.Thing, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000148
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.AISM_0000148, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000149
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.AISM_0000149, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000150
+Parent Classes: [obo.AISM_0002064, obo.AISM_0000147, owl.Thing, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0000150]
+
+Class: obo.AISM_0000151
+Parent Classes: [obo.AISM_0002064, obo.AISM_0000147, owl.Thing, obo.UBERON_0001134, obo.AISM_0000151, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000152
+Parent Classes: [obo.AISM_0002064, obo.AISM_0000147, owl.Thing, obo.UBERON_0001134, obo.AISM_0000152, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000153
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.AISM_0000148, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0000153]
+
+Class: obo.AISM_0000154
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.AISM_0000154, obo.AISM_0000148, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000155
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.AISM_0000148, obo.UBERON_0001134, obo.AISM_0000155, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0000156
+Parent Classes: [obo.AISM_0000156, obo.AISM_0000005, owl.Thing]
+
+Class: obo.AISM_0000157
+Parent Classes: [obo.AISM_0000157, owl.Thing, obo.AISM_0000005]
+
+Class: obo.AISM_0000158
+Parent Classes: [obo.AISM_0000000, owl.Thing, obo.AISM_0000158]
+
+Class: obo.AISM_0000159
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000160, obo.AISM_0000159, obo.AISM_0000006, obo.AISM_0000004]
+
+Class: obo.AISM_0000160
+Parent Classes: [owl.Thing, obo.AISM_0000160, obo.AISM_0000006, obo.AISM_0000174]
+
+Class: obo.AISM_0000161
+Parent Classes: [obo.AISM_0000000, obo.AISM_0000161, owl.Thing, obo.AISM_0000158]
+
+Class: obo.AISM_0000162
+Parent Classes: [obo.AISM_0000162, obo.AISM_0000157, owl.Thing, obo.AISM_0000005]
+
+Class: obo.AISM_0000163
+Parent Classes: [obo.AISM_0000162, owl.Thing, obo.AISM_0000005, obo.AISM_0000157, obo.AISM_0000163]
+
+Class: obo.AISM_0000165
+Parent Classes: [obo.AISM_0000165, owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008]
+
+Class: obo.AISM_0000166
+Parent Classes: [owl.Thing, obo.AISM_0000002, obo.AISM_0000174, obo.AISM_0000166]
+
+Class: obo.AISM_0000167
+Parent Classes: [obo.AISM_0000167, owl.Thing, obo.UBERON_0006984]
+
+Class: obo.AISM_0000168
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0000003, obo.AISM_0000168]
+
+Class: obo.AISM_0000169
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004128, obo.AISM_0000169]
+
+Class: obo.AISM_0000170
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000170, obo.AISM_0000174]
+
+Class: obo.AISM_0000172
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000174, obo.AISM_0000003, owl.Thing, obo.AISM_0000004, obo.AISM_0000172]
+
+Class: obo.AISM_0000173
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000173, obo.AISM_0000004]
+
+Class: obo.AISM_0000174
+Parent Classes: [owl.Thing, obo.AISM_0000174]
+
+Class: obo.AISM_0000177
+Parent Classes: [obo.AISM_0000177, owl.Thing, obo.UBERON_0000464]
+
+Class: obo.AISM_0000178
+Parent Classes: [obo.AISM_0000008, owl.Thing, obo.AISM_0000178, obo.AISM_0000028]
+
+Class: obo.AISM_0000185
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000185, obo.AISM_0000008, obo.AISM_0000127]
+
+Class: obo.AISM_0000186
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000186, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127]
+
+Class: obo.AISM_0000187
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127, obo.AISM_0000187]
+
+Class: obo.AISM_0000188
+Parent Classes: [obo.AISM_0000000, owl.Thing, obo.AISM_0000188]
+
+Class: obo.AISM_0000189
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127, obo.AISM_0000189]
+
+Class: obo.AISM_0000190
+Parent Classes: [obo.AISM_0000008, obo.AISM_0000190, owl.Thing]
+
+Class: obo.AISM_0000191
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000000, obo.AISM_0000191, obo.AISM_0000006, obo.AISM_0000136, obo.AISM_0000188]
+
+Class: obo.AISM_0000192
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0000192]
+
+Class: obo.AISM_0000193
+Parent Classes: [obo.AISM_0000156, obo.AISM_0000005, owl.Thing, obo.AISM_0000193]
+
+Class: obo.AISM_0000194
+Parent Classes: [owl.Thing, obo.AISM_0000193, obo.AISM_0000156, obo.AISM_0000194, obo.AISM_0000005, obo.AISM_0000196]
+
+Class: obo.AISM_0000195
+Parent Classes: [owl.Thing, obo.AISM_0000193, obo.AISM_0000156, obo.AISM_0000195, obo.AISM_0000005, obo.AISM_0000196]
+
+Class: obo.AISM_0000196
+Parent Classes: [owl.Thing, obo.AISM_0000193, obo.AISM_0000156, obo.AISM_0000005, obo.AISM_0000196]
+
+Class: obo.AISM_0000197
+Parent Classes: [obo.AISM_0000197, owl.Thing, obo.UBERON_0000464]
+
+Class: obo.AISM_0000198
+Parent Classes: [obo.AISM_0000197, owl.Thing, obo.UBERON_0000464, obo.AISM_0000198]
+
+Class: obo.AISM_0000200
+Parent Classes: [obo.AISM_0000200, obo.AISM_0000003, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0000201
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0000201]
+
+Class: obo.AISM_0000501
+Parent Classes: [obo.AISM_0000501, owl.Thing, obo.AISM_0000008]
+
+Class: obo.AISM_0000523
+Parent Classes: [obo.AISM_0000523, owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004057]
+
+Class: obo.AISM_0000524
+Parent Classes: [obo.AISM_0000524, obo.AISM_0000005, obo.AISM_0000156, owl.Thing]
+
+Class: obo.AISM_0000525
+Parent Classes: [obo.AISM_0000008, owl.Thing, obo.AISM_0000525]
+
+Class: obo.AISM_0000526
+Parent Classes: [obo.AISM_0000008, obo.AISM_0000526, owl.Thing]
+
+Class: obo.AISM_0000527
+Parent Classes: [obo.AISM_0000008, owl.Thing, obo.AISM_0000527]
+
+Class: obo.AISM_0000528
+Parent Classes: [obo.UBERON_0034925, owl.Thing, obo.AISM_0000528]
+
+Class: obo.AISM_0000529
+Parent Classes: [obo.UBERON_0034925, obo.AISM_0000529, owl.Thing]
+
+Class: obo.AISM_0000530
+Parent Classes: [obo.AISM_0000530, obo.UBERON_0034925, owl.Thing]
+
+Class: obo.AISM_0000531
+Parent Classes: [obo.AISM_0000008, obo.AISM_0000027, owl.Thing, obo.AISM_0000531]
+
+Class: obo.AISM_0000532
+Parent Classes: [obo.AISM_0000008, owl.Thing, obo.AISM_0000027, obo.AISM_0000532]
+
+Class: obo.AISM_0000534
+Parent Classes: [obo.AISM_0000005, owl.Thing, obo.AISM_0000534]
+
+Class: obo.AISM_0002002
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0002002, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0000081]
+
+Class: obo.AISM_0002003
+Parent Classes: [owl.Thing, obo.AISM_0002003, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0000081]
+
+Class: obo.AISM_0002004
+Parent Classes: [obo.AISM_0002004, owl.Thing, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0000081]
+
+Class: obo.AISM_0002005
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002005, obo.AISM_0000081]
+
+Class: obo.AISM_0002006
+Parent Classes: [obo.AISM_0002006, owl.Thing, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0000081]
+
+Class: obo.AISM_0002007
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002007, obo.AISM_0000081]
+
+Class: obo.AISM_0002008
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002008, obo.AISM_0000081]
+
+Class: obo.AISM_0002009
+Parent Classes: [owl.Thing, obo.AISM_0000084, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002009]
+
+Class: obo.AISM_0002010
+Parent Classes: [obo.AISM_0002010, owl.Thing, obo.AISM_0000084, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002011
+Parent Classes: [owl.Thing, obo.AISM_0000084, obo.AISM_0002011, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002012
+Parent Classes: [obo.AISM_0000000, obo.AISM_0002012, owl.Thing, obo.AISM_0000188]
+
+Class: obo.AISM_0002013
+Parent Classes: [owl.Thing, obo.AISM_0000084, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002013]
+
+Class: obo.AISM_0002014
+Parent Classes: [owl.Thing, obo.AISM_0000082, obo.UBERON_0001134, obo.AISM_0000080, obo.AISM_0002014, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002017
+Parent Classes: [owl.Thing, obo.AISM_0000082, obo.UBERON_0001134, obo.AISM_0002017, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002018
+Parent Classes: [owl.Thing, obo.AISM_0000082, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002018]
+
+Class: obo.AISM_0002019
+Parent Classes: [obo.AISM_0000003, owl.Thing, obo.AISM_0002019, obo.AISM_0000174]
+
+Class: obo.AISM_0002021
+Parent Classes: [owl.Thing, obo.AISM_0000082, obo.AISM_0002021, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002022
+Parent Classes: [owl.Thing, obo.AISM_0000082, obo.AISM_0002022, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002023
+Parent Classes: [owl.Thing, obo.AISM_0000082, obo.AISM_0002023, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002024
+Parent Classes: [owl.Thing, obo.AISM_0002024, obo.AISM_0000082, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002025
+Parent Classes: [owl.Thing, obo.AISM_0000082, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002025]
+
+Class: obo.AISM_0002026
+Parent Classes: [obo.AISM_0002026, obo.LEPAO_0000001, owl.Thing, obo.UBERON_0001134]
+
+Class: obo.AISM_0002027
+Parent Classes: [owl.Thing, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002027]
+
+Class: obo.AISM_0002028
+Parent Classes: [owl.Thing, obo.AISM_0002028, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002029
+Parent Classes: [owl.Thing, obo.AISM_0002029, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002030
+Parent Classes: [obo.AISM_0002030, owl.Thing, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002031
+Parent Classes: [obo.AISM_0000158, obo.AISM_0000000, owl.Thing, obo.AISM_0002031]
+
+Class: obo.AISM_0002032
+Parent Classes: [owl.Thing, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002032]
+
+Class: obo.AISM_0002033
+Parent Classes: [owl.Thing, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002033]
+
+Class: obo.AISM_0002034
+Parent Classes: [owl.Thing, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002034]
+
+Class: obo.AISM_0002035
+Parent Classes: [owl.Thing, obo.AISM_0002035, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002036
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0002036, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0000062]
+
+Class: obo.AISM_0002037
+Parent Classes: [owl.Thing, obo.AISM_0002036, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0002037, obo.AISM_0000062]
+
+Class: obo.AISM_0002038
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0002036, obo.AISM_0002038, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0000062]
+
+Class: obo.AISM_0002039
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0002036, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0002039, obo.AISM_0000062]
+
+Class: obo.AISM_0002040
+Parent Classes: [obo.AISM_0002040, owl.Thing, obo.AISM_0002036, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0000062]
+
+Class: obo.AISM_0002041
+Parent Classes: [owl.Thing, obo.AISM_0002036, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0002041, obo.AISM_0000062]
+
+Class: obo.AISM_0002042
+Parent Classes: [owl.Thing, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002042]
+
+Class: obo.AISM_0002043
+Parent Classes: [obo.AISM_0002043, owl.Thing, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002044
+Parent Classes: [owl.Thing, obo.AISM_0002026, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002044]
+
+Class: obo.AISM_0002045
+Parent Classes: [owl.Thing, obo.AISM_0002026, obo.AISM_0002045, obo.UBERON_0001134, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002047
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002047]
+
+Class: obo.AISM_0002048
+Parent Classes: [obo.AISM_0000000, owl.Thing, obo.AISM_0000188, obo.AISM_0002048]
+
+Class: obo.AISM_0002049
+Parent Classes: [owl.Thing, obo.AISM_0000000, obo.AISM_0002048, obo.AISM_0002049, obo.AISM_0000188]
+
+Class: obo.AISM_0002050
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002050]
+
+Class: obo.AISM_0002051
+Parent Classes: [owl.Thing, obo.AISM_0002051, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002052
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0002052, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002053
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002053]
+
+Class: obo.AISM_0002054
+Parent Classes: [obo.AISM_0002054, owl.Thing, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002055
+Parent Classes: [owl.Thing, obo.AISM_0002055, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002056
+Parent Classes: [owl.Thing, obo.AISM_0002056, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002057
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0000083, obo.AISM_0000080, obo.LEPAO_0000001, obo.AISM_0002057]
+
+Class: obo.AISM_0002058
+Parent Classes: [owl.Thing, obo.AISM_0002058, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002059
+Parent Classes: [owl.Thing, obo.AISM_0002058, obo.AISM_0002059, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002060
+Parent Classes: [obo.AISM_0002060, owl.Thing, obo.AISM_0002058, obo.UBERON_0001134, obo.AISM_0000080, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002061
+Parent Classes: [owl.Thing, obo.LEPAO_0000001, obo.UBERON_0001134, obo.AISM_0002061]
+
+Class: obo.AISM_0002062
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0002062, obo.LEPAO_0000001, obo.AISM_0002061]
+
+Class: obo.AISM_0002063
+Parent Classes: [owl.Thing, obo.AISM_0002063, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002061]
+
+Class: obo.AISM_0002064
+Parent Classes: [obo.AISM_0002064, owl.Thing, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002065
+Parent Classes: [obo.LEPAO_0000001, owl.Thing, obo.AISM_0002065, obo.UBERON_0001134]
+
+Class: obo.AISM_0002066
+Parent Classes: [owl.Thing, obo.AISM_0002066, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0002067
+Parent Classes: [owl.Thing, obo.AISM_0002067, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002068
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0002068]
+
+Class: obo.AISM_0002069
+Parent Classes: [owl.Thing, obo.AISM_0002069, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0002070
+Parent Classes: [owl.Thing, obo.AISM_0002070, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0002071
+Parent Classes: [owl.Thing, obo.AISM_0002066, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0002071]
+
+Class: obo.AISM_0002072
+Parent Classes: [owl.Thing, obo.AISM_0002066, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0002072]
+
+Class: obo.AISM_0002073
+Parent Classes: [owl.Thing, obo.AISM_0002066, obo.UBERON_0001134, obo.AISM_0002073, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0002074
+Parent Classes: [owl.Thing, obo.AISM_0002074, obo.AISM_0002066, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0002075
+Parent Classes: [owl.Thing, obo.AISM_0002075, obo.AISM_0002066, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002076
+Parent Classes: [obo.AISM_0002076, owl.Thing, obo.AISM_0000000, obo.AISM_0002048, obo.AISM_0000188]
+
+Class: obo.AISM_0002078
+Parent Classes: [owl.Thing, obo.AISM_0002078, obo.AISM_0002067, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002079
+Parent Classes: [owl.Thing, obo.AISM_0002067, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0002079]
+
+Class: obo.AISM_0002080
+Parent Classes: [owl.Thing, obo.AISM_0002067, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0002080]
+
+Class: obo.AISM_0002081
+Parent Classes: [owl.Thing, obo.AISM_0002067, obo.UBERON_0001134, obo.AISM_0002065, obo.AISM_0002081, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002082
+Parent Classes: [owl.Thing, obo.AISM_0002067, obo.UBERON_0001134, obo.AISM_0002082, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0002083
+Parent Classes: [owl.Thing, obo.AISM_0002066, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0002083]
+
+Class: obo.AISM_0002084
+Parent Classes: [owl.Thing, obo.AISM_0002067, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0002084]
+
+Class: obo.AISM_0002085
+Parent Classes: [obo.AISM_0002085, owl.Thing, obo.LEPAO_0000001, obo.UBERON_0001134]
+
+Class: obo.AISM_0002086
+Parent Classes: [owl.Thing, obo.AISM_0002085, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002086]
+
+Class: obo.AISM_0002087
+Parent Classes: [owl.Thing, obo.AISM_0002085, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002087]
+
+Class: obo.AISM_0002088
+Parent Classes: [owl.Thing, obo.AISM_0002085, obo.AISM_0002088, obo.UBERON_0001134, obo.LEPAO_0000001]
+
+Class: obo.AISM_0004001
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0000003, obo.AISM_0004001]
+
+Class: obo.AISM_0004002
+Parent Classes: [obo.AISM_0004002, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0004003
+Parent Classes: [obo.AISM_0004003, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004004
+Parent Classes: [obo.AISM_0000003, owl.Thing, obo.AISM_0004004, obo.AISM_0000174]
+
+Class: obo.AISM_0004005
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004005]
+
+Class: obo.AISM_0004006
+Parent Classes: [obo.AISM_0004006, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004007
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0004007]
+
+Class: obo.AISM_0004008
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000004, obo.AISM_0004008]
+
+Class: obo.AISM_0004009
+Parent Classes: [obo.AISM_0004009, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0004010
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004010, obo.AISM_0000004]
+
+Class: obo.AISM_0004011
+Parent Classes: [owl.Thing, obo.AISM_0004011, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004012
+Parent Classes: [obo.AISM_0004012, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004013
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004013, obo.AISM_0000004]
+
+Class: obo.AISM_0004014
+Parent Classes: [owl.Thing, obo.AISM_0004014, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004015
+Parent Classes: [owl.Thing, obo.AISM_0004015, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004016
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004016, obo.AISM_0000004]
+
+Class: obo.AISM_0004017
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0004017]
+
+Class: obo.AISM_0004018
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0004018]
+
+Class: obo.AISM_0004019
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004019]
+
+Class: obo.AISM_0004020
+Parent Classes: [owl.Thing, obo.AISM_0004020, obo.AISM_0000174]
+
+Class: obo.AISM_0004021
+Parent Classes: [obo.AISM_0000000, obo.AISM_0004021, owl.Thing, obo.AISM_0000158]
+
+Class: obo.AISM_0004022
+Parent Classes: [obo.AISM_0000000, owl.Thing, obo.AISM_0004022, obo.AISM_0000158]
+
+Class: obo.AISM_0004023
+Parent Classes: [obo.AISM_0000197, owl.Thing, obo.UBERON_0000464, obo.AISM_0004023]
+
+Class: obo.AISM_0004024
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000000, obo.AISM_0004024, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000188]
+
+Class: obo.AISM_0004025
+Parent Classes: [owl.Thing, obo.AISM_0004025, obo.AISM_0000174]
+
+Class: obo.AISM_0004026
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004026]
+
+Class: obo.AISM_0004027
+Parent Classes: [obo.AISM_0004027, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004028
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004028]
+
+Class: obo.AISM_0004029
+Parent Classes: [obo.AISM_0004029, owl.Thing, obo.AISM_0000174, obo.AISM_0004028]
+
+Class: obo.AISM_0004030
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004030, obo.AISM_0004028]
+
+Class: obo.AISM_0004031
+Parent Classes: [obo.AISM_0000000, obo.AISM_0004031, owl.Thing, obo.AISM_0000158]
+
+Class: obo.AISM_0004032
+Parent Classes: [obo.AISM_0000000, obo.AISM_0004032, owl.Thing, obo.AISM_0000158]
+
+Class: obo.AISM_0004033
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004033]
+
+Class: obo.AISM_0004034
+Parent Classes: [obo.AISM_0000158, obo.AISM_0000000, owl.Thing, obo.AISM_0004034]
+
+Class: obo.AISM_0004035
+Parent Classes: [obo.AISM_0004035, obo.AISM_0000003, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004036
+Parent Classes: [obo.AISM_0000000, owl.Thing, obo.AISM_0000158, obo.AISM_0004036]
+
+Class: obo.AISM_0004037
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000000, obo.AISM_0004037, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000188]
+
+Class: obo.AISM_0004038
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004038, obo.AISM_0000000, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000188]
+
+Class: obo.AISM_0004039
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000000, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000188, obo.AISM_0004039]
+
+Class: obo.AISM_0004040
+Parent Classes: [obo.AISM_0000197, owl.Thing, obo.UBERON_0000464, obo.AISM_0004040]
+
+Class: obo.AISM_0004041
+Parent Classes: [obo.AISM_0004041, obo.AISM_0000197, obo.UBERON_0000464, owl.Thing]
+
+Class: obo.AISM_0004042
+Parent Classes: [owl.Thing, obo.AISM_0004042, obo.AISM_0000174]
+
+Class: obo.AISM_0004043
+Parent Classes: [obo.AISM_0004043, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004044
+Parent Classes: [obo.AISM_0000000, obo.AISM_0004044, owl.Thing, obo.AISM_0000158]
+
+Class: obo.AISM_0004045
+Parent Classes: [obo.AISM_0004045, owl.Thing, obo.AISM_0000174]
+
+Class: obo.AISM_0004046
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004046]
+
+Class: obo.AISM_0004047
+Parent Classes: [obo.AISM_0004047, obo.AISM_0000000, owl.Thing, obo.AISM_0000158]
+
+Class: obo.AISM_0004048
+Parent Classes: [owl.Thing, obo.AISM_0000000, obo.BSPO_0000070, obo.AISM_0000158, obo.AISM_0004048, obo.BSPO_0000077]
+
+Class: obo.AISM_0004049
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004049]
+
+Class: obo.AISM_0004050
+Parent Classes: [obo.AISM_0004050, owl.Thing, obo.AISM_0000174]
+
+Class: obo.AISM_0004051
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004051]
+
+Class: obo.AISM_0004052
+Parent Classes: [owl.Thing, obo.UBERON_0000020, obo.AISM_0004052]
+
+Class: obo.AISM_0004053
+Parent Classes: [owl.Thing, obo.UBERON_0000020, obo.AISM_0004053]
+
+Class: obo.AISM_0004054
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000000, obo.AISM_0004054, obo.AISM_0000138, obo.AISM_0000006, obo.AISM_0000188]
+
+Class: obo.AISM_0004055
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004055]
+
+Class: obo.AISM_0004056
+Parent Classes: [obo.AISM_0004056, owl.Thing, obo.AISM_0000174]
+
+Class: obo.AISM_0004057
+Parent Classes: [obo.AISM_0004057, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004058
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0000003, obo.AISM_0004058]
+
+Class: obo.AISM_0004059
+Parent Classes: [owl.Thing, obo.AISM_0004059, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004060
+Parent Classes: [obo.AISM_0004060, obo.AISM_0000003, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004061
+Parent Classes: [obo.AISM_0004061, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004062
+Parent Classes: [obo.AISM_0000008, obo.AISM_0000027, owl.Thing, obo.AISM_0004062]
+
+Class: obo.AISM_0004063
+Parent Classes: [obo.AISM_0004063, obo.AISM_0000174, obo.AISM_0000006, owl.Thing]
+
+Class: obo.AISM_0004064
+Parent Classes: [obo.AISM_0004064, obo.AISM_0000008, obo.AISM_0000027, owl.Thing]
+
+Class: obo.AISM_0004065
+Parent Classes: [obo.AISM_0004065, owl.Thing, obo.AISM_0000174]
+
+Class: obo.AISM_0004066
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004066]
+
+Class: obo.AISM_0004067
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004067]
+
+Class: obo.AISM_0004068
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0004068, obo.AISM_0000174]
+
+Class: obo.AISM_0004069
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004069]
+
+Class: obo.AISM_0004070
+Parent Classes: [owl.Thing, obo.AISM_0004070, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008]
+
+Class: obo.AISM_0004071
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127, obo.AISM_0004071]
+
+Class: obo.AISM_0004072
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000039, obo.AISM_0000174, obo.AISM_0000027, obo.AISM_0000008, obo.AISM_0000127, obo.AISM_0004072]
+
+Class: obo.AISM_0004073
+Parent Classes: [obo.AISM_0000000, owl.Thing, obo.AISM_0000188, obo.AISM_0004073]
+
+Class: obo.AISM_0004074
+Parent Classes: [obo.AISM_0004074, owl.Thing, obo.AISM_0000174]
+
+Class: obo.AISM_0004075
+Parent Classes: [owl.Thing, obo.UBERON_0000464, obo.AISM_0004075]
+
+Class: obo.AISM_0004076
+Parent Classes: [obo.AISM_0004076, owl.Thing, obo.AISM_0000174]
+
+Class: obo.AISM_0004077
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004077]
+
+Class: obo.AISM_0004078
+Parent Classes: [owl.Thing, obo.AISM_0004078, obo.AISM_0000174]
+
+Class: obo.AISM_0004079
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004079]
+
+Class: obo.AISM_0004080
+Parent Classes: [obo.AISM_0000162, owl.Thing, obo.AISM_0004080, obo.AISM_0000005, obo.AISM_0000157]
+
+Class: obo.AISM_0004081
+Parent Classes: [obo.AISM_0004081, owl.Thing, obo.AISM_0000008]
+
+Class: obo.AISM_0004082
+Parent Classes: [obo.AISM_0000004, obo.AISM_0000174, owl.Thing, obo.AISM_0004082]
+
+Class: obo.AISM_0004083
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004083]
+
+Class: obo.AISM_0004084
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004084, obo.AISM_0000004]
+
+Class: obo.AISM_0004085
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004085, obo.AISM_0004057]
+
+Class: obo.AISM_0004086
+Parent Classes: [owl.Thing, obo.AISM_0004086, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004087
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004087, obo.AISM_0004057]
+
+Class: obo.AISM_0004088
+Parent Classes: [obo.AISM_0004088, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004089
+Parent Classes: [obo.AISM_0004089, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004090
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0004090, obo.AISM_0000174, obo.AISM_0004057]
+
+Class: obo.AISM_0004091
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004057, obo.AISM_0004091]
+
+Class: obo.AISM_0004092
+Parent Classes: [obo.AISM_0004092, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004093
+Parent Classes: [obo.AISM_0004093, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004057]
+
+Class: obo.AISM_0004094
+Parent Classes: [obo.AISM_0004094, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0004095
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004095, obo.AISM_0004057]
+
+Class: obo.AISM_0004096
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004096, obo.AISM_0000004]
+
+Class: obo.AISM_0004097
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004097, obo.AISM_0004057]
+
+Class: obo.AISM_0004098
+Parent Classes: [obo.AISM_0000004, obo.AISM_0000174, owl.Thing, obo.AISM_0004098]
+
+Class: obo.AISM_0004099
+Parent Classes: [obo.AISM_0004099, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004100
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0004100, obo.AISM_0004058]
+
+Class: obo.AISM_0004101
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004101, obo.AISM_0000004]
+
+Class: obo.AISM_0004102
+Parent Classes: [obo.AISM_0004102, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004103
+Parent Classes: [obo.AISM_0004103, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0004104
+Parent Classes: [obo.AISM_0004104, owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0004058]
+
+Class: obo.AISM_0004105
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004105, obo.AISM_0004058]
+
+Class: obo.AISM_0004106
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004106, obo.AISM_0004058]
+
+Class: obo.AISM_0004107
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0004107, obo.AISM_0004058]
+
+Class: obo.AISM_0004108
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0004108, obo.AISM_0004058]
+
+Class: obo.AISM_0004109
+Parent Classes: [obo.AISM_0004109, owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0004058]
+
+Class: obo.AISM_0004110
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0004110, obo.AISM_0004058]
+
+Class: obo.AISM_0004111
+Parent Classes: [obo.AISM_0000004, obo.AISM_0000174, owl.Thing, obo.AISM_0004111]
+
+Class: obo.AISM_0004112
+Parent Classes: [obo.AISM_0004112, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004113
+Parent Classes: [obo.AISM_0000004, obo.AISM_0000174, owl.Thing, obo.AISM_0004113]
+
+Class: obo.AISM_0004114
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004114, obo.AISM_0000004]
+
+Class: obo.AISM_0004115
+Parent Classes: [obo.AISM_0004115, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004116
+Parent Classes: [obo.AISM_0004116, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0004117
+Parent Classes: [obo.AISM_0004117, owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004057]
+
+Class: obo.AISM_0004118
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004057, obo.AISM_0004118]
+
+Class: obo.AISM_0004119
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004119, obo.AISM_0004058]
+
+Class: obo.AISM_0004120
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004120, obo.AISM_0000004]
+
+Class: obo.AISM_0004121
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0004121]
+
+Class: obo.AISM_0004122
+Parent Classes: [obo.AISM_0004122, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0004123
+Parent Classes: [owl.Thing, obo.AISM_0004123, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004124
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0004124]
+
+Class: obo.AISM_0004125
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004125]
+
+Class: obo.AISM_0004126
+Parent Classes: [obo.AISM_0004126, owl.Thing, obo.AISM_0000174]
+
+Class: obo.AISM_0004127
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004127]
+
+Class: obo.AISM_0004128
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004128]
+
+Class: obo.AISM_0004129
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004129]
+
+Class: obo.AISM_0004130
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004130]
+
+Class: obo.AISM_0004131
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004131]
+
+Class: obo.AISM_0004132
+Parent Classes: [obo.AISM_0000158, obo.AISM_0000000, owl.Thing, obo.AISM_0004132]
+
+Class: obo.AISM_0004133
+Parent Classes: [obo.AISM_0004133, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004134
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004134]
+
+Class: obo.AISM_0004135
+Parent Classes: [obo.AISM_0004135, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004136
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004130, obo.AISM_0004136]
+
+Class: obo.AISM_0004137
+Parent Classes: [obo.AISM_0004137, owl.Thing, obo.AISM_0000174, obo.AISM_0004130]
+
+Class: obo.AISM_0004138
+Parent Classes: [obo.AISM_0004138, obo.AISM_0000174, obo.AISM_0004130, owl.Thing]
+
+Class: obo.AISM_0004139
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004130, obo.AISM_0004139]
+
+Class: obo.AISM_0004140
+Parent Classes: [obo.AISM_0004140, owl.Thing, obo.AISM_0000174, obo.AISM_0004130]
+
+Class: obo.AISM_0004141
+Parent Classes: [obo.AISM_0000003, owl.Thing, obo.AISM_0004141, obo.AISM_0000174]
+
+Class: obo.AISM_0004142
+Parent Classes: [obo.AISM_0004142, obo.AISM_0000174, owl.Thing, obo.AISM_0004129]
+
+Class: obo.AISM_0004143
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0000003, obo.AISM_0004143]
+
+Class: obo.AISM_0004144
+Parent Classes: [obo.AISM_0004144, obo.AISM_0000003, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004145
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0000003, obo.AISM_0004145]
+
+Class: obo.AISM_0004146
+Parent Classes: [obo.AISM_0004146, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004147
+Parent Classes: [obo.AISM_0004147, owl.Thing, obo.AISM_0000003, obo.AISM_0000174]
+
+Class: obo.AISM_0004148
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004148]
+
+Class: obo.AISM_0004149
+Parent Classes: [obo.AISM_0004149, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004150
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004150]
+
+Class: obo.AISM_0004151
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004151]
+
+Class: obo.AISM_0004152
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004152, obo.AISM_0004151]
+
+Class: obo.AISM_0004153
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004153, obo.AISM_0004151]
+
+Class: obo.AISM_0004154
+Parent Classes: [owl.Thing, obo.AISM_0004154, obo.AISM_0000174]
+
+Class: obo.AISM_0004155
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004155]
+
+Class: obo.AISM_0004156
+Parent Classes: [obo.AISM_0000162, owl.Thing, obo.AISM_0004156, obo.AISM_0000005, obo.AISM_0000157]
+
+Class: obo.AISM_0004157
+Parent Classes: [obo.AISM_0004157, owl.Thing, obo.CARO_0000008]
+
+Class: obo.AISM_0004158
+Parent Classes: [owl.Thing, obo.AISM_0004158, obo.AISM_0000174]
+
+Class: obo.AISM_0004159
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004159]
+
+Class: obo.AISM_0004160
+Parent Classes: [obo.AISM_0004160, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004161
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0000003, obo.AISM_0004161]
+
+Class: obo.AISM_0004162
+Parent Classes: [obo.AISM_0000000, owl.Thing, obo.AISM_0004162, obo.AISM_0000158]
+
+Class: obo.AISM_0004163
+Parent Classes: [obo.AISM_0004163, obo.AISM_0000003, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004165
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004165]
+
+Class: obo.AISM_0004166
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004166]
+
+Class: obo.AISM_0004167
+Parent Classes: [obo.AISM_0004167, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004168
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004168, obo.AISM_0000062]
+
+Class: obo.AISM_0004169
+Parent Classes: [obo.AISM_0004169, obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000062]
+
+Class: obo.AISM_0004170
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0000004, obo.AISM_0004170]
+
+Class: obo.AISM_0004171
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004171, obo.AISM_0004168, obo.AISM_0000062]
+
+Class: obo.AISM_0004172
+Parent Classes: [obo.AISM_0004172, obo.AISM_0000003, obo.AISM_0000063, obo.AISM_0000174, owl.Thing, obo.AISM_0004168, obo.AISM_0000062]
+
+Class: obo.AISM_0004173
+Parent Classes: [obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004173, obo.AISM_0004168, obo.AISM_0000062]
+
+Class: obo.AISM_0004174
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004174, obo.AISM_0000004]
+
+Class: obo.AISM_0004175
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004175, obo.AISM_0004174, obo.AISM_0000004]
+
+Class: obo.AISM_0004176
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004176, obo.AISM_0004174, obo.AISM_0000004]
+
+Class: obo.AISM_0004177
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004174, obo.AISM_0000004, obo.AISM_0004177]
+
+Class: obo.AISM_0004178
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004178, obo.AISM_0000004]
+
+Class: obo.AISM_0004179
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004178, obo.AISM_0004179, obo.AISM_0000004]
+
+Class: obo.AISM_0004180
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004178, obo.AISM_0004180, obo.AISM_0000004]
+
+Class: obo.AISM_0004181
+Parent Classes: [obo.AISM_0004181, obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004178, obo.AISM_0000004]
+
+Class: obo.AISM_0004182
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000174, obo.AISM_0000003, owl.Thing, obo.AISM_0000004, obo.AISM_0004182]
+
+Class: obo.AISM_0004183
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000174, obo.AISM_0000003, owl.Thing, obo.AISM_0000004, obo.AISM_0004183, obo.AISM_0004182]
+
+Class: obo.AISM_0004184
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000174, obo.AISM_0000003, owl.Thing, obo.AISM_0004182, obo.AISM_0000004, obo.AISM_0004184]
+
+Class: obo.AISM_0004185
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0004185, owl.Thing, obo.AISM_0000004, obo.AISM_0004182]
+
+Class: obo.AISM_0004186
+Parent Classes: [obo.AISM_0004186, owl.Thing, obo.AISM_0000174, obo.AISM_0004129]
+
+Class: obo.AISM_0004187
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004187, obo.AISM_0000004]
+
+Class: obo.AISM_0004188
+Parent Classes: [obo.AISM_0004169, obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004188, obo.AISM_0000062]
+
+Class: obo.AISM_0004189
+Parent Classes: [obo.AISM_0004169, obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004189, obo.AISM_0000062]
+
+Class: obo.AISM_0004190
+Parent Classes: [obo.AISM_0004169, obo.AISM_0000063, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004190, obo.AISM_0000062]
+
+Class: obo.AISM_0004191
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0004191, obo.AISM_0000174, owl.Thing, obo.AISM_0004187, obo.AISM_0000004]
+
+Class: obo.AISM_0004192
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004192, obo.AISM_0004187, obo.AISM_0000004]
+
+Class: obo.AISM_0004193
+Parent Classes: [obo.AISM_0000102, obo.AISM_0000003, obo.AISM_0000174, owl.Thing, obo.AISM_0004187, obo.AISM_0000004, obo.AISM_0004193]
+
+Class: obo.AISM_0004194
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0004194, obo.AISM_0000047]
+
+Class: obo.AISM_0004195
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000047, obo.AISM_0004195]
+
+Class: obo.AISM_0004196
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0004196, obo.AISM_0000029, obo.AISM_0000128, obo.AISM_0000008, obo.AISM_0000047]
+
+Class: obo.AISM_0004197
+Parent Classes: [obo.AISM_0004197, obo.UBERON_0000464, owl.Thing]
+
+Class: obo.AISM_0004198
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004198]
+
+Class: obo.AISM_0004199
+Parent Classes: [obo.AISM_0004199, owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0000073, obo.AISM_0000062]
+
+Class: obo.AISM_0004200
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0004200]
+
+Class: obo.AISM_0004201
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004201, obo.AISM_0000004]
+
+Class: obo.AISM_0004202
+Parent Classes: [obo.AISM_0004202, owl.Thing, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004203
+Parent Classes: [owl.Thing, obo.AISM_0004203, obo.AISM_0000174, obo.AISM_0000004]
+
+Class: obo.AISM_0004204
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004204]
+
+Class: obo.AISM_0004205
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004205, obo.AISM_0004204]
+
+Class: obo.AISM_0004206
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004206, obo.AISM_0004204]
+
+Class: obo.AISM_0004207
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0004207, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004204]
+
+Class: obo.AISM_0004208
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004208]
+
+Class: obo.AISM_0004209
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004209, obo.AISM_0004208]
+
+Class: obo.AISM_0004210
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0004210, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0004208]
+
+Class: obo.AISM_0004211
+Parent Classes: [obo.AISM_0004211, owl.Thing, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001]
+
+Class: obo.AISM_0004212
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0004212, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0004213
+Parent Classes: [obo.AISM_0004213, owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0004214
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004214]
+
+Class: obo.AISM_0004215
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.AISM_0002065, obo.LEPAO_0000001, obo.AISM_0004215]
+
+Class: obo.AISM_0004216
+Parent Classes: [owl.Thing, obo.AISM_0004216, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0004217
+Parent Classes: [owl.Thing, obo.AISM_0004216, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004217]
+
+Class: obo.AISM_0004218
+Parent Classes: [owl.Thing, obo.AISM_0004218, obo.AISM_0004216, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065]
+
+Class: obo.AISM_0004219
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004219, obo.AISM_0004222, obo.AISM_0000004]
+
+Class: obo.AISM_0004220
+Parent Classes: [obo.AISM_0004220, obo.AISM_0000174, owl.Thing, obo.AISM_0004222, obo.AISM_0000004]
+
+Class: obo.AISM_0004221
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004221, obo.AISM_0004222, obo.AISM_0000004]
+
+Class: obo.AISM_0004222
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004222, obo.AISM_0000004]
+
+Class: obo.AISM_0004223
+Parent Classes: [owl.Thing, obo.AISM_0000003, obo.AISM_0000174, obo.AISM_0004223, obo.AISM_0004161]
+
+Class: obo.AISM_0004224
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000003, obo.AISM_0004224, obo.AISM_0004161]
+
+Class: obo.AISM_0004225
+Parent Classes: [owl.Thing, obo.AISM_0000000, obo.AISM_0002048, obo.AISM_0004225, obo.AISM_0000188]
+
+Class: obo.AISM_0004226
+Parent Classes: [owl.Thing, obo.AISM_0004226, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004208]
+
+Class: obo.AISM_0004227
+Parent Classes: [owl.Thing, obo.UBERON_0001134, obo.LEPAO_0000001, obo.AISM_0002065, obo.AISM_0004227]
+
+Class: obo.AISM_0004228
+Parent Classes: [owl.Thing, obo.AISM_0000000, obo.AISM_0004228, obo.AISM_0002048, obo.AISM_0000188]
+
+Class: obo.AISM_0004229
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004229, obo.AISM_0000004]
+
+Class: obo.AISM_0004230
+Parent Classes: [obo.AISM_0004230, obo.AISM_0000174, owl.Thing, obo.AISM_0000004]
+
+Class: obo.AISM_0004231
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000004, obo.AISM_0004231]
+
+Class: obo.AISM_0004232
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004130, obo.AISM_0004232]
+
+Class: obo.AISM_0004233
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004233, obo.AISM_0000004]
+
+Class: obo.AISM_0004234
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000160, obo.AISM_0004234, obo.AISM_0000006]
+
+Class: obo.AISM_0004235
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004235]
+
+Class: obo.AISM_0004236
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004236, obo.AISM_0004235]
+
+Class: obo.AISM_0004237
+Parent Classes: [owl.Thing, obo.AISM_0000027, obo.AISM_0004237, obo.AISM_0000128, obo.AISM_0000008]
+
+Class: obo.AISM_0004238
+Parent Classes: [obo.AISM_0004238, obo.AISM_0000174, owl.Thing, obo.AISM_0004235]
+
+Class: obo.AISM_0004239
+Parent Classes: [obo.AISM_0004239, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004240
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0004240, obo.AISM_0004028]
+
+Class: obo.AISM_0004241
+Parent Classes: [obo.AISM_0004241, obo.AISM_0000174, owl.Thing]
+
+Class: obo.AISM_0004242
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004242]
+
+Class: obo.AISM_0004243
+Parent Classes: [owl.Thing, obo.AISM_0004243, obo.AISM_0000174]
+
+Class: obo.AISM_0004244
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004244]
+
+Class: obo.AISM_0004245
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004242, obo.AISM_0004245]
+
+Class: obo.AISM_0004246
+Parent Classes: [owl.Thing, obo.AISM_0004243, obo.AISM_0000174, obo.AISM_0004246]
+
+Class: obo.AISM_0004247
+Parent Classes: [obo.AISM_0004247, owl.Thing, obo.AISM_0004243, obo.AISM_0000174]
+
+Class: obo.AISM_0004248
+Parent Classes: [obo.AISM_0004248, obo.AISM_0000174, obo.AISM_0004242, owl.Thing]
+
+Class: obo.AISM_0004249
+Parent Classes: [obo.AISM_0004249, owl.Thing, obo.AISM_0004243, obo.AISM_0000174]
+
+Class: obo.AISM_0004250
+Parent Classes: [obo.AISM_0004250, owl.Thing, obo.AISM_0000174, obo.AISM_0004242]
+
+Class: obo.AISM_0004251
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0004243, obo.AISM_0004251]
+
+Class: obo.AISM_0004252
+Parent Classes: [obo.AISM_0004252, owl.Thing, obo.AISM_0004243, obo.AISM_0000174]
+
+Class: obo.AISM_0004253
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004253, obo.AISM_0004244]
+
+Class: obo.AISM_0004254
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0004254, obo.AISM_0004244]
+
+Class: obo.AISM_0004255
+Parent Classes: [obo.AISM_0004255, owl.Thing, obo.AISM_0004243, obo.AISM_0000174]
+
+Class: obo.AISM_0004256
+Parent Classes: [obo.AISM_0004243, owl.Thing, obo.AISM_0004256, obo.AISM_0000174]
+
+Class: obo.AISM_0004257
+Parent Classes: [obo.AISM_0004257, owl.Thing, obo.AISM_0004243, obo.AISM_0000174]
+
+Class: obo.AISM_0004258
+Parent Classes: [owl.Thing, obo.AISM_0004242, obo.AISM_0004258, obo.AISM_0000174]
+
+Class: obo.AISM_0004259
+Parent Classes: [owl.Thing, obo.AISM_0004244, obo.AISM_0000174, obo.AISM_0004259]
+
+Class: obo.AISM_0004260
+Parent Classes: [obo.AISM_0000174, owl.Thing, obo.AISM_0000003, obo.AISM_0004260]
+
+Class: obo.AISM_0004261
+Parent Classes: [obo.AISM_0004261, obo.AISM_0000008, owl.Thing]
+
+Class: obo.AISM_0004262
+Parent Classes: [obo.AISM_0000162, owl.Thing, obo.AISM_0004262, obo.AISM_0000005, obo.AISM_0000157]
+
+Class: obo.BSPO_0000000
+Parent Classes: [obo.BSPO_0000000, owl.Thing, obo.BSPO_0000070]
+
+Class: obo.BSPO_0000007
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000007]
+
+Class: obo.BSPO_0000013
+Parent Classes: [obo.CARO_0000008, owl.Thing, obo.BSPO_0000013]
+
+Class: obo.BSPO_0000016
+Parent Classes: [obo.CARO_0000008, owl.Thing, obo.BSPO_0000016]
+
+Class: obo.BSPO_0000027
+Parent Classes: [owl.Thing, obo.BSPO_0000070, obo.BSPO_0000027, obo.BSPO_0000071, obo.BSPO_0000084]
+
+Class: obo.BSPO_0000029
+Parent Classes: [owl.Thing, obo.BSPO_0000070, obo.BSPO_0000029, obo.BSPO_0000082, obo.BSPO_0000071]
+
+Class: obo.BSPO_0000035
+Parent Classes: [owl.Thing, obo.BSPO_0000070, obo.BSPO_0000035, obo.BSPO_0000072, obo.BSPO_0000084]
+
+Class: obo.BSPO_0000061
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000061]
+
+Class: obo.BSPO_0000062
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000062]
+
+Class: obo.BSPO_0000069
+Parent Classes: [owl.Thing, obo.BSPO_0000069, obo.BSPO_0000070, obo.BSPO_0000079, obo.BSPO_0000083]
+
+Class: obo.BSPO_0000070
+Parent Classes: [obo.BSPO_0000070, owl.Thing]
+
+Class: obo.BSPO_0000071
+Parent Classes: [obo.BSPO_0000070, obo.BSPO_0000071, owl.Thing]
+
+Class: obo.BSPO_0000072
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000072]
+
+Class: obo.BSPO_0000077
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000077]
+
+Class: obo.BSPO_0000079
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000079]
+
+Class: obo.BSPO_0000080
+Parent Classes: [owl.Thing, obo.BSPO_0000080, obo.BSPO_0000070, obo.BSPO_0000079, obo.BSPO_0000082]
+
+Class: obo.BSPO_0000082
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000082]
+
+Class: obo.BSPO_0000083
+Parent Classes: [obo.BSPO_0000083, owl.Thing, obo.BSPO_0000070]
+
+Class: obo.BSPO_0000084
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000084]
+
+Class: obo.BSPO_0000085
+Parent Classes: [owl.Thing, obo.BSPO_0000070, obo.BSPO_0000085, obo.BSPO_0000082, obo.BSPO_0000084]
+
+Class: obo.BSPO_0000112
+Parent Classes: [owl.Thing, obo.BSPO_0000070, obo.BSPO_0000083, obo.BSPO_0000112, obo.BSPO_0000084]
+
+Class: obo.BSPO_0000377
+Parent Classes: [obo.BSPO_0000377, owl.Thing]
+
+Class: obo.BSPO_0000378
+Parent Classes: [owl.Thing, obo.BSPO_0000378]
+
+Class: obo.BSPO_0000417
+Parent Classes: [obo.CARO_0000008, owl.Thing, obo.BSPO_0000417]
+
+Class: obo.BSPO_0000671
+Parent Classes: [obo.BSPO_0000070, obo.BSPO_0000071, obo.BSPO_0000671, owl.Thing]
+
+Class: obo.BSPO_0000672
+Parent Classes: [obo.BSPO_0000072, owl.Thing, obo.BSPO_0000672, obo.BSPO_0000070]
+
+Class: obo.BSPO_0000677
+Parent Classes: [obo.BSPO_0000070, obo.BSPO_0000677, owl.Thing, obo.BSPO_0000077]
+
+Class: obo.BSPO_0000678
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000678]
+
+Class: obo.BSPO_0000679
+Parent Classes: [obo.BSPO_0000070, owl.Thing, obo.BSPO_0000079, obo.BSPO_0000679]
+
+Class: obo.BSPO_0000682
+Parent Classes: [obo.BSPO_0000682, obo.BSPO_0000070, owl.Thing, obo.BSPO_0000082]
+
+Class: obo.BSPO_0000683
+Parent Classes: [obo.BSPO_0000083, owl.Thing, obo.BSPO_0000683, obo.BSPO_0000070]
+
+Class: obo.BSPO_0000684
+Parent Classes: [obo.BSPO_0000684, owl.Thing, obo.BSPO_0000070, obo.BSPO_0000084]
+
+Class: obo.CARO_0000008
+Parent Classes: [obo.CARO_0000008, owl.Thing]
+
+Class: obo.CL_0000000
+Parent Classes: [owl.Thing, obo.CL_0000000]
+
+Class: obo.CL_0000066
+Parent Classes: [obo.CL_0000066, owl.Thing, obo.CL_0000000]
+
+Class: obo.CL_0000150
+Parent Classes: [obo.CL_0000066, owl.Thing, obo.CL_0000150, obo.CL_0000000]
+
+Class: obo.CL_0000362
+Parent Classes: [obo.CL_0000066, obo.CL_0000362, owl.Thing, obo.CL_0000000]
+
+Class: obo.LEPAO_0000000
+Parent Classes: [owl.Thing, obo.LEPAO_0000000]
+
+Class: obo.LEPAO_0000001
+Parent Classes: [owl.Thing, obo.LEPAO_0000001]
+
+Class: obo.LEPAO_0000002
+Parent Classes: [owl.Thing, obo.LEPAO_0000001, obo.LEPAO_0000002]
+
+Class: obo.LEPAO_0000003
+Parent Classes: [obo.LEPAO_0000003, owl.Thing, obo.LEPAO_0000001]
+
+Class: obo.LEPAO_0000004
+Parent Classes: [owl.Thing, obo.LEPAO_0000004]
+
+Class: obo.LEPAO_0000005
+Parent Classes: [obo.LEPAO_0000005, owl.Thing, obo.LEPAO_0000004]
+
+Class: obo.LEPAO_0000006
+Parent Classes: [owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000007
+Parent Classes: [obo.LEPAO_0000007, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000008
+Parent Classes: [obo.LEPAO_0000008, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000009
+Parent Classes: [obo.LEPAO_0000009, obo.LEPAO_0000008, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000010
+Parent Classes: [obo.LEPAO_0000010, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000011
+Parent Classes: [obo.LEPAO_0000010, owl.Thing, obo.LEPAO_0000011, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000012
+Parent Classes: [owl.Thing, obo.LEPAO_0000011, obo.LEPAO_0000012, obo.LEPAO_0000006, obo.LEPAO_0000010]
+
+Class: obo.LEPAO_0000013
+Parent Classes: [owl.Thing, obo.LEPAO_0000011, obo.LEPAO_0000006, obo.LEPAO_0000013, obo.LEPAO_0000010]
+
+Class: obo.LEPAO_0000014
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000014]
+
+Class: obo.LEPAO_0000015
+Parent Classes: [obo.LEPAO_0000010, owl.Thing, obo.LEPAO_0000015, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000016
+Parent Classes: [owl.Thing, obo.LEPAO_0000016, obo.LEPAO_0000015, obo.LEPAO_0000006, obo.LEPAO_0000010]
+
+Class: obo.LEPAO_0000017
+Parent Classes: [owl.Thing, obo.LEPAO_0000017, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000018
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000018, obo.LEPAO_0000021, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000019
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000019, obo.LEPAO_0000021, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000020
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000021
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000006, obo.LEPAO_0000021]
+
+Class: obo.LEPAO_0000022
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000006, obo.LEPAO_0000022]
+
+Class: obo.LEPAO_0000023
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000023, obo.LEPAO_0000006, obo.LEPAO_0000022]
+
+Class: obo.LEPAO_0000024
+Parent Classes: [obo.LEPAO_0000024, obo.LEPAO_0000020, owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000022]
+
+Class: obo.LEPAO_0000025
+Parent Classes: [obo.LEPAO_0000025, owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000006, obo.LEPAO_0000022]
+
+Class: obo.LEPAO_0000026
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000006, obo.LEPAO_0000028, obo.LEPAO_0000026]
+
+Class: obo.LEPAO_0000027
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000027, obo.LEPAO_0000006, obo.LEPAO_0000028]
+
+Class: obo.LEPAO_0000028
+Parent Classes: [owl.Thing, obo.LEPAO_0000020, obo.LEPAO_0000006, obo.LEPAO_0000028]
+
+Class: obo.LEPAO_0000029
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000029]
+
+Class: obo.LEPAO_0000030
+Parent Classes: [owl.Thing, obo.LEPAO_0000030, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000031
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.LEPAO_0000031, obo.AISM_0000091, obo.AISM_0000007, obo.AISM_0000006, obo.AISM_0000136]
+
+Class: obo.LEPAO_0000032
+Parent Classes: [obo.LEPAO_0000032, owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000033
+Parent Classes: [owl.Thing, obo.LEPAO_0000033, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000034
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.LEPAO_0000034, obo.AISM_0000091, obo.AISM_0000007, obo.AISM_0000006, obo.AISM_0000136]
+
+Class: obo.LEPAO_0000035
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.AISM_0000136, obo.AISM_0000091, obo.AISM_0000007, obo.AISM_0000006, obo.LEPAO_0000035]
+
+Class: obo.LEPAO_0000036
+Parent Classes: [owl.Thing, obo.LEPAO_0000036, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000037
+Parent Classes: [owl.Thing, obo.LEPAO_0000037, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000038
+Parent Classes: [owl.Thing, obo.LEPAO_0000032, obo.LEPAO_0000038, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000039
+Parent Classes: [owl.Thing, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000039, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000040
+Parent Classes: [owl.Thing, obo.AISM_0000174, obo.LEPAO_0000040, obo.AISM_0000091, obo.AISM_0000007, obo.AISM_0000006, obo.AISM_0000136]
+
+Class: obo.LEPAO_0000041
+Parent Classes: [owl.Thing, obo.LEPAO_0000041, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000042
+Parent Classes: [owl.Thing, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000042, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000043
+Parent Classes: [owl.Thing, obo.LEPAO_0000043, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000044
+Parent Classes: [owl.Thing, obo.LEPAO_0000032, obo.LEPAO_0000044, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000045
+Parent Classes: [obo.LEPAO_0000045, owl.Thing, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000046
+Parent Classes: [owl.Thing, obo.LEPAO_0000046, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000047
+Parent Classes: [owl.Thing, obo.LEPAO_0000047, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000048
+Parent Classes: [obo.LEPAO_0000048, owl.Thing, obo.LEPAO_0000032, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000049
+Parent Classes: [owl.Thing, obo.LEPAO_0000030, obo.LEPAO_0000006, obo.LEPAO_0000049]
+
+Class: obo.LEPAO_0000050
+Parent Classes: [obo.LEPAO_0000050, owl.Thing, obo.LEPAO_0000030, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000051
+Parent Classes: [obo.LEPAO_0000051, owl.Thing, obo.LEPAO_0000030, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000052
+Parent Classes: [owl.Thing, obo.LEPAO_0000052, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000053
+Parent Classes: [obo.LEPAO_0000053, owl.Thing, obo.LEPAO_0000052, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000054
+Parent Classes: [owl.Thing, obo.LEPAO_0000053, obo.LEPAO_0000054, obo.LEPAO_0000052, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000055
+Parent Classes: [owl.Thing, obo.LEPAO_0000055, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000056
+Parent Classes: [owl.Thing, obo.LEPAO_0000055, obo.LEPAO_0000006, obo.LEPAO_0000056]
+
+Class: obo.LEPAO_0000057
+Parent Classes: [obo.LEPAO_0000057, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000058
+Parent Classes: [owl.Thing, obo.LEPAO_0000058, obo.LEPAO_0000030, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000059
+Parent Classes: [owl.Thing, obo.LEPAO_0000059, obo.LEPAO_0000030, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000060
+Parent Classes: [owl.Thing, obo.LEPAO_0000055, obo.LEPAO_0000006, obo.LEPAO_0000060]
+
+Class: obo.LEPAO_0000061
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000061]
+
+Class: obo.LEPAO_0000062
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000061, obo.LEPAO_0000062]
+
+Class: obo.LEPAO_0000063
+Parent Classes: [obo.LEPAO_0000063, owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000061]
+
+Class: obo.LEPAO_0000064
+Parent Classes: [owl.Thing, obo.LEPAO_0000015, obo.LEPAO_0000006, obo.LEPAO_0000010, obo.LEPAO_0000064]
+
+Class: obo.LEPAO_0000065
+Parent Classes: [obo.LEPAO_0000063, owl.Thing, obo.LEPAO_0000065, obo.LEPAO_0000006, obo.LEPAO_0000061]
+
+Class: obo.LEPAO_0000066
+Parent Classes: [obo.LEPAO_0000063, owl.Thing, obo.LEPAO_0000066, obo.LEPAO_0000006, obo.LEPAO_0000061]
+
+Class: obo.LEPAO_0000067
+Parent Classes: [owl.Thing, obo.LEPAO_0000011, obo.LEPAO_0000067, obo.LEPAO_0000006, obo.LEPAO_0000010]
+
+Class: obo.LEPAO_0000068
+Parent Classes: [owl.Thing, obo.LEPAO_0000011, obo.LEPAO_0000068, obo.LEPAO_0000006, obo.LEPAO_0000010]
+
+Class: obo.LEPAO_0000070
+Parent Classes: [obo.LEPAO_0000063, owl.Thing, obo.LEPAO_0000070, obo.LEPAO_0000006, obo.LEPAO_0000061]
+
+Class: obo.LEPAO_0000071
+Parent Classes: [owl.Thing, obo.LEPAO_0000062, obo.LEPAO_0000071, obo.LEPAO_0000006, obo.LEPAO_0000061]
+
+Class: obo.LEPAO_0000072
+Parent Classes: [owl.Thing, obo.LEPAO_0000072, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000073
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000074
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000006, obo.LEPAO_0000074]
+
+Class: obo.LEPAO_0000075
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000006, obo.LEPAO_0000075]
+
+Class: obo.LEPAO_0000076
+Parent Classes: [obo.LEPAO_0000076, owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000077
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000078
+Parent Classes: [obo.LEPAO_0000078, owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000079
+Parent Classes: [obo.LEPAO_0000079, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000080
+Parent Classes: [owl.Thing, obo.LEPAO_0000053, obo.LEPAO_0000052, obo.LEPAO_0000006, obo.LEPAO_0000080]
+
+Class: obo.LEPAO_0000081
+Parent Classes: [owl.Thing, obo.LEPAO_0000081, obo.UBERON_0001002, obo.LEPAO_0000006, obo.LEPAO_0000014]
+
+Class: obo.LEPAO_0000082
+Parent Classes: [owl.Thing, obo.UBERON_0001002, obo.LEPAO_0000082, obo.LEPAO_0000006, obo.LEPAO_0000014]
+
+Class: obo.LEPAO_0000083
+Parent Classes: [owl.Thing, obo.LEPAO_0000083, obo.UBERON_0001002, obo.LEPAO_0000006, obo.LEPAO_0000014]
+
+Class: obo.LEPAO_0000084
+Parent Classes: [owl.Thing, obo.LEPAO_0000084, obo.UBERON_0001002, obo.LEPAO_0000006, obo.LEPAO_0000014]
+
+Class: obo.LEPAO_0000085
+Parent Classes: [obo.LEPAO_0000085, owl.Thing, obo.LEPAO_0000030, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000086
+Parent Classes: [owl.Thing, obo.LEPAO_0000086, obo.LEPAO_0000006, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000087
+Parent Classes: [owl.Thing, obo.LEPAO_0000110, obo.LEPAO_0000006, obo.LEPAO_0000087]
+
+Class: obo.LEPAO_0000088
+Parent Classes: [obo.LEPAO_0000088, owl.Thing, obo.LEPAO_0000110, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000089
+Parent Classes: [obo.LEPAO_0000089, owl.Thing, obo.LEPAO_0000110, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000090
+Parent Classes: [owl.Thing, obo.LEPAO_0000090, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000091
+Parent Classes: [owl.Thing, obo.LEPAO_0000090, obo.LEPAO_0000006, obo.LEPAO_0000091]
+
+Class: obo.LEPAO_0000092
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000090, obo.LEPAO_0000092]
+
+Class: obo.LEPAO_0000093
+Parent Classes: [owl.Thing, obo.LEPAO_0000093, obo.LEPAO_0000090, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000094
+Parent Classes: [obo.LEPAO_0000094, owl.Thing, obo.LEPAO_0000090, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000095
+Parent Classes: [owl.Thing, obo.LEPAO_0000095, obo.LEPAO_0000090, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000096
+Parent Classes: [obo.LEPAO_0000096, owl.Thing, obo.LEPAO_0000090, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000097
+Parent Classes: [obo.LEPAO_0000090, owl.Thing, obo.LEPAO_0000097, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000098
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000098, obo.LEPAO_0000077]
+
+Class: obo.LEPAO_0000099
+Parent Classes: [obo.LEPAO_0000099, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000100
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000100]
+
+Class: obo.LEPAO_0000101
+Parent Classes: [owl.Thing, obo.LEPAO_0000101, obo.LEPAO_0000006, obo.LEPAO_0000052]
+
+Class: obo.LEPAO_0000102
+Parent Classes: [obo.LEPAO_0000102, owl.Thing, obo.LEPAO_0000114, obo.LEPAO_0000107, obo.LEPAO_0000105, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000103
+Parent Classes: [owl.Thing, obo.LEPAO_0000114, obo.LEPAO_0000107, obo.LEPAO_0000105, obo.LEPAO_0000006, obo.LEPAO_0000103]
+
+Class: obo.LEPAO_0000104
+Parent Classes: [obo.LEPAO_0000113, obo.LEPAO_0000104, owl.Thing, obo.LEPAO_0000107, obo.LEPAO_0000105, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000105
+Parent Classes: [obo.LEPAO_0000105, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000106
+Parent Classes: [obo.LEPAO_0000105, owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000106]
+
+Class: obo.LEPAO_0000107
+Parent Classes: [obo.LEPAO_0000105, owl.Thing, obo.LEPAO_0000107, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000108
+Parent Classes: [obo.LEPAO_0000108, owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000109
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000006, obo.LEPAO_0000109]
+
+Class: obo.LEPAO_0000110
+Parent Classes: [owl.Thing, obo.LEPAO_0000110, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000111
+Parent Classes: [owl.Thing, obo.LEPAO_0000111, obo.LEPAO_0000105, obo.LEPAO_0000006, obo.LEPAO_0000106]
+
+Class: obo.LEPAO_0000112
+Parent Classes: [owl.Thing, obo.LEPAO_0000112, obo.LEPAO_0000105, obo.LEPAO_0000006, obo.LEPAO_0000106]
+
+Class: obo.LEPAO_0000113
+Parent Classes: [obo.LEPAO_0000113, owl.Thing, obo.LEPAO_0000107, obo.LEPAO_0000105, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000114
+Parent Classes: [owl.Thing, obo.LEPAO_0000114, obo.LEPAO_0000107, obo.LEPAO_0000105, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000115
+Parent Classes: [obo.LEPAO_0000110, owl.Thing, obo.LEPAO_0000115, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000116
+Parent Classes: [obo.LEPAO_0000116, owl.Thing, obo.LEPAO_0000110, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000117
+Parent Classes: [obo.LEPAO_0000117, owl.Thing, obo.LEPAO_0000110, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000118
+Parent Classes: [owl.Thing, obo.LEPAO_0000118, obo.LEPAO_0000110, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000119
+Parent Classes: [obo.LEPAO_0000119, owl.Thing, obo.LEPAO_0000118, obo.LEPAO_0000110, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000120
+Parent Classes: [owl.Thing, obo.LEPAO_0000118, obo.LEPAO_0000110, obo.LEPAO_0000006, obo.LEPAO_0000120]
+
+Class: obo.LEPAO_0000121
+Parent Classes: [owl.Thing, obo.LEPAO_0000118, obo.LEPAO_0000110, obo.LEPAO_0000121, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000122
+Parent Classes: [owl.Thing, obo.LEPAO_0000118, obo.LEPAO_0000110, obo.LEPAO_0000006, obo.LEPAO_0000122]
+
+Class: obo.LEPAO_0000123
+Parent Classes: [owl.Thing, obo.LEPAO_0000118, obo.LEPAO_0000110, obo.LEPAO_0000006, obo.LEPAO_0000123]
+
+Class: obo.LEPAO_0000124
+Parent Classes: [owl.Thing, obo.LEPAO_0000118, obo.LEPAO_0000110, obo.LEPAO_0000124, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000125
+Parent Classes: [owl.Thing, obo.LEPAO_0000118, obo.LEPAO_0000110, obo.LEPAO_0000125, obo.LEPAO_0000006]
+
+Class: obo.LEPAO_0000126
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000126, obo.LEPAO_0000006, obo.LEPAO_0000075]
+
+Class: obo.LEPAO_0000127
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000006, obo.LEPAO_0000127, obo.LEPAO_0000075]
+
+Class: obo.LEPAO_0000128
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000128, obo.LEPAO_0000006, obo.LEPAO_0000075]
+
+Class: obo.LEPAO_0000129
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000129, obo.LEPAO_0000006, obo.LEPAO_0000075]
+
+Class: obo.LEPAO_0000130
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000130, obo.LEPAO_0000006, obo.LEPAO_0000075]
+
+Class: obo.LEPAO_0000131
+Parent Classes: [owl.Thing, obo.LEPAO_0000131, obo.LEPAO_0000073, obo.LEPAO_0000006, obo.LEPAO_0000075]
+
+Class: obo.LEPAO_0000132
+Parent Classes: [owl.Thing, obo.LEPAO_0000073, obo.LEPAO_0000132, obo.LEPAO_0000006, obo.LEPAO_0000075]
+
+Class: obo.PATO_0000052
+Parent Classes: [owl.Thing, obo.PATO_0000052]
+
+Class: obo.PATO_0000117
+Parent Classes: [owl.Thing, obo.PATO_0000117]
+
+Class: obo.PATO_0000402
+Parent Classes: [obo.PATO_0000402, owl.Thing, obo.PATO_0000052]
+
+Class: obo.PATO_0000404
+Parent Classes: [obo.PATO_0000404, owl.Thing, obo.PATO_0000052]
+
+Class: obo.PATO_0000407
+Parent Classes: [obo.PATO_0000407, owl.Thing, obo.PATO_0002254, obo.PATO_0000052]
+
+Class: obo.PATO_0000411
+Parent Classes: [owl.Thing, obo.PATO_0000411, obo.PATO_0000052]
+
+Class: obo.PATO_0000587
+Parent Classes: [obo.PATO_0000117, owl.Thing, obo.PATO_0000587]
+
+Class: obo.PATO_0000591
+Parent Classes: [owl.Thing, obo.PATO_0000591, obo.PATO_0000915, obo.PATO_0000117]
+
+Class: obo.PATO_0000592
+Parent Classes: [owl.Thing, obo.PATO_0000587, obo.PATO_0000592, obo.PATO_0000915, obo.PATO_0000117]
+
+Class: obo.PATO_0000915
+Parent Classes: [owl.Thing, obo.PATO_0000915, obo.PATO_0000117]
+
+Class: obo.PATO_0000964
+Parent Classes: [owl.Thing, obo.PATO_0000964]
+
+Class: obo.PATO_0000984
+Parent Classes: [obo.PATO_0000984, owl.Thing]
+
+Class: obo.PATO_0001031
+Parent Classes: [obo.PATO_0001031, owl.Thing]
+
+Class: obo.PATO_0001154
+Parent Classes: [obo.PATO_0001154, owl.Thing, obo.PATO_0000052]
+
+Class: obo.PATO_0001171
+Parent Classes: [obo.PATO_0001031, owl.Thing, obo.PATO_0001171]
+
+Class: obo.PATO_0001355
+Parent Classes: [owl.Thing, obo.PATO_0001355, obo.PATO_0000052]
+
+Class: obo.PATO_0001369
+Parent Classes: [owl.Thing, obo.PATO_0001369, obo.PATO_0000052]
+
+Class: obo.PATO_0001419
+Parent Classes: [obo.PATO_0000052, owl.Thing, obo.PATO_0001419]
+
+Class: obo.PATO_0001543
+Parent Classes: [obo.PATO_0001543, owl.Thing]
+
+Class: obo.PATO_0001748
+Parent Classes: [owl.Thing, obo.PATO_0001857, obo.PATO_0000052, obo.PATO_0001748]
+
+Class: obo.PATO_0001857
+Parent Classes: [owl.Thing, obo.PATO_0001857, obo.PATO_0000052]
+
+Class: obo.PATO_0001873
+Parent Classes: [owl.Thing, obo.PATO_0001873, obo.PATO_0000052]
+
+Class: obo.PATO_0002021
+Parent Classes: [obo.PATO_0002021, owl.Thing, obo.PATO_0000052]
+
+Class: obo.PATO_0002078
+Parent Classes: [obo.PATO_0002078, owl.Thing]
+
+Class: obo.PATO_0002219
+Parent Classes: [owl.Thing, obo.PATO_0002219, obo.PATO_0000052]
+
+Class: obo.PATO_0002228
+Parent Classes: [obo.PATO_0001419, owl.Thing, obo.PATO_0000052, obo.PATO_0002228]
+
+Class: obo.PATO_0002254
+Parent Classes: [owl.Thing, obo.PATO_0002254, obo.PATO_0000052]
+
+Class: obo.PATO_0002539
+Parent Classes: [obo.PATO_0002539, owl.Thing, obo.PATO_0000052]
+
+Class: obo.PATO_0040024
+Parent Classes: [owl.Thing, obo.PATO_0040024]
+
+Class: obo.PR_Q9V7U0
+Parent Classes: [obo.PR_Q9V7U0, owl.Thing]
+
+Class: obo.UBERON_0000020
+Parent Classes: [owl.Thing, obo.UBERON_0000020]
+
+Class: obo.UBERON_0000464
+Parent Classes: [owl.Thing, obo.UBERON_0000464]
+
+Class: obo.UBERON_0000955
+Parent Classes: [obo.UBERON_0000955, owl.Thing, obo.LEPAO_0000006]
+
+Class: obo.UBERON_0001001
+Parent Classes: [owl.Thing, obo.UBERON_0001002, obo.LEPAO_0000006, obo.LEPAO_0000014, obo.UBERON_0001001]
+
+Class: obo.UBERON_0001002
+Parent Classes: [owl.Thing, obo.LEPAO_0000006, obo.LEPAO_0000014, obo.UBERON_0001002]
+
+Class: obo.UBERON_0001134
+Parent Classes: [owl.Thing, obo.LEPAO_0000001, obo.UBERON_0001134]
+
+Class: obo.UBERON_0001555
+Parent Classes: [owl.Thing, obo.UBERON_0001555]
+
+Class: obo.UBERON_0002376
+Parent Classes: [owl.Thing, obo.UBERON_0002376]
+
+Class: obo.UBERON_0004175
+Parent Classes: [owl.Thing, obo.UBERON_0004175]
+
+Class: obo.UBERON_0005157
+Parent Classes: [owl.Thing, obo.UBERON_0005157]
+
+Class: obo.UBERON_0006984
+Parent Classes: [owl.Thing, obo.UBERON_0006984]
+
+Class: obo.UBERON_0034925
+Parent Classes: [obo.UBERON_0034925, owl.Thing]
+
+Class: obo.UBERON_6007284
+Parent Classes: [obo.LEPAO_0000079, owl.Thing, obo.UBERON_6007284, obo.LEPAO_0000006]
+
+Class: obo.UBERON_6007289
+Parent Classes: [owl.Thing, obo.UBERON_6007284, obo.LEPAO_0000079, obo.UBERON_6007289, obo.LEPAO_0000006]
+
+Class: owl.Nothing
+Parent Classes: [owl.Thing, owl.Nothing]
+

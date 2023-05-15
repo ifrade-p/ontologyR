@@ -1,0 +1,78 @@
+<Property(label=definition, iri=http://purl.obolibrary.org/obo/IAO_0000115, ontology_name=lepao, short_form=IAO_0000115, obo_id=IAO:0000115)>
+<Property(label=TopObjectProperty, iri=http://www.w3.org/2002/07/owl#TopObjectProperty, ontology_name=lepao, short_form=TopObjectProperty, obo_id=None)>
+<Property(label=contained in, iri=http://purl.obolibrary.org/obo/RO_0001018, ontology_name=lepao, short_form=RO_0001018, obo_id=RO:0001018)>
+<Property(label=contains, iri=http://purl.obolibrary.org/obo/RO_0001019, ontology_name=lepao, short_form=RO_0001019, obo_id=RO:0001019)>
+<Property(label=contributor, iri=http://purl.org/dc/elements/1.1/contributor, ontology_name=lepao, short_form=contributor, obo_id=None)>
+<Property(label=curator note, iri=http://purl.obolibrary.org/obo/IAO_0000232, ontology_name=lepao, short_form=IAO_0000232, obo_id=IAO:0000232)>
+<Property(label=location of, iri=http://purl.obolibrary.org/obo/RO_0001015, ontology_name=lepao, short_form=RO_0001015, obo_id=RO:0001015)>
+<Property(label=distal to, iri=http://purl.obolibrary.org/obo/BSPO_0000097, ontology_name=lepao, short_form=BSPO_0000097, obo_id=BSPO:0000097)>
+<Property(label=anterior to, iri=http://purl.obolibrary.org/obo/BSPO_0000096, ontology_name=lepao, short_form=BSPO_0000096, obo_id=BSPO:0000096)>
+<Property(label=has_rank, iri=http://purl.obolibrary.org/obo/ncbitaxon#has_rank, ontology_name=lepao, short_form=has_rank, obo_id=has:rank)>
+<Property(label=title, iri=http://purl.org/dc/elements/1.1/title, ontology_name=lepao, short_form=title, obo_id=None)>
+<Property(label=posterior to, iri=http://purl.obolibrary.org/obo/BSPO_0000099, ontology_name=lepao, short_form=BSPO_0000099, obo_id=BSPO:0000099)>
+<Property(label=dorsal_to, iri=http://purl.obolibrary.org/obo/BSPO_0000098, ontology_name=lepao, short_form=BSPO_0000098, obo_id=BSPO:0000098)>
+<Property(label=description, iri=http://purl.org/dc/elements/1.1/description, ontology_name=lepao, short_form=description, obo_id=None)>
+<Property(label=bearer of, iri=http://purl.obolibrary.org/obo/RO_0000053, ontology_name=lepao, short_form=RO_0000053, obo_id=RO:0000053)>
+<Property(label=inheres in, iri=http://purl.obolibrary.org/obo/RO_0000052, ontology_name=lepao, short_form=RO_0000052, obo_id=RO:0000052)>
+<Property(label=continuous with, iri=http://purl.obolibrary.org/obo/RO_0002150, ontology_name=lepao, short_form=RO_0002150, obo_id=RO:0002150)>
+<Property(label=mereotopologically related to, iri=http://purl.obolibrary.org/obo/RO_0002323, ontology_name=lepao, short_form=RO_0002323, obo_id=RO:0002323)>
+<Property(label=different_in_magnitude_relative_to, iri=http://purl.obolibrary.org/obo/pato#different_in_magnitude_relative_to, ontology_name=lepao, short_form=different_in_magnitude_relative_to, obo_id=different_in_magnitude_relative:to)>
+<Property(label=immediately deep to, iri=http://purl.obolibrary.org/obo/BSPO_0001107, ontology_name=lepao, short_form=BSPO_0001107, obo_id=BSPO:0001107)>
+<Property(label=adjacent to, iri=http://purl.obolibrary.org/obo/RO_0002220, ontology_name=lepao, short_form=RO_0002220, obo_id=RO:0002220)>
+<Property(label=label, iri=http://www.w3.org/2000/01/rdf-schema#label, ontology_name=lepao, short_form=label, obo_id=None)>
+<Property(label=surrounded by, iri=http://purl.obolibrary.org/obo/RO_0002219, ontology_name=lepao, short_form=RO_0002219, obo_id=RO:0002219)>
+<Property(label=license, iri=http://purl.org/dc/terms/license, ontology_name=lepao, short_form=license, obo_id=None)>
+<Property(label=has part, iri=http://purl.obolibrary.org/obo/BFO_0000051, ontology_name=lepao, short_form=BFO_0000051, obo_id=BFO:0000051)>
+<Property(label=overlaps, iri=http://purl.obolibrary.org/obo/RO_0002131, ontology_name=lepao, short_form=RO_0002131, obo_id=RO:0002131)>
+<Property(label=posteriorly connected to, iri=http://purl.obolibrary.org/obo/uberon/core#posteriorly_connected_to, ontology_name=lepao, short_form=posteriorly_connected_to, obo_id=posteriorly_connected:to)>
+<Property(label=connected to, iri=http://purl.obolibrary.org/obo/RO_0002170, ontology_name=lepao, short_form=RO_0002170, obo_id=RO:0002170)>
+<Property(label=part of, iri=http://purl.obolibrary.org/obo/BFO_0000050, ontology_name=lepao, short_form=BFO_0000050, obo_id=BFO:0000050)>
+<Property(label=taxon, iri=http://www.geneontology.org/formats/oboInOwl#taxon, ontology_name=lepao, short_form=taxon, obo_id=None)>
+<Property(label=comment, iri=http://www.w3.org/2000/01/rdf-schema#comment, ontology_name=lepao, short_form=comment, obo_id=None)>
+<Property(label=parallel to, iri=http://purl.obolibrary.org/obo/bspo#parallel_to, ontology_name=lepao, short_form=parallel_to, obo_id=parallel:to)>
+<Property(label=ventral_to, iri=http://purl.obolibrary.org/obo/BSPO_0000102, ontology_name=lepao, short_form=BSPO_0000102, obo_id=BSPO:0000102)>
+<Property(label=proximal_to, iri=http://purl.obolibrary.org/obo/BSPO_0000100, ontology_name=lepao, short_form=BSPO_0000100, obo_id=BSPO:0000100)>
+<Property(label=spatially disjoint from, iri=http://purl.obolibrary.org/obo/RO_0002163, ontology_name=lepao, short_form=RO_0002163, obo_id=RO:0002163)>
+<Property(label=has quality, iri=http://purl.obolibrary.org/obo/RO_0000086, ontology_name=lepao, short_form=RO_0000086, obo_id=RO:0000086)>
+<Property(label=surrounds, iri=http://purl.obolibrary.org/obo/RO_0002221, ontology_name=lepao, short_form=RO_0002221, obo_id=RO:0002221)>
+<Property(label=lateral_to, iri=http://purl.obolibrary.org/obo/AISM_0000011, ontology_name=lepao, short_form=AISM_0000011, obo_id=AISM:0000011)>
+<Property(label=hasAlternativeId, iri=http://www.geneontology.org/formats/oboInOwl#hasAlternativeId, ontology_name=lepao, short_form=hasAlternativeId, obo_id=None)>
+<Property(label=medial_to, iri=http://purl.obolibrary.org/obo/AISM_0000012, ontology_name=lepao, short_form=AISM_0000012, obo_id=AISM:0000012)>
+<Property(label=contralateral to, iri=http://purl.obolibrary.org/obo/BSPO_0000106, ontology_name=lepao, short_form=BSPO_0000106, obo_id=BSPO:0000106)>
+<Property(label=opposite to, iri=http://purl.obolibrary.org/obo/BSPO_0000113, ontology_name=lepao, short_form=BSPO_0000113, obo_id=BSPO:0000113)>
+<Property(label=superficial_to, iri=http://purl.obolibrary.org/obo/BSPO_0000108, ontology_name=lepao, short_form=BSPO_0000108, obo_id=BSPO:0000108)>
+<Property(label=coincident with, iri=http://purl.obolibrary.org/obo/RO_0002008, ontology_name=lepao, short_form=RO_0002008, obo_id=RO:0002008)>
+<Property(label=existence starts with, iri=http://purl.obolibrary.org/obo/RO_0002489, ontology_name=lepao, short_form=RO_0002489, obo_id=RO:0002489)>
+<Property(label=existence starts during, iri=http://purl.obolibrary.org/obo/RO_0002488, ontology_name=lepao, short_form=RO_0002488, obo_id=RO:0002488)>
+<Property(label=sensu, iri=http://purl.obolibrary.org/obo/AISM_0000171, ontology_name=lepao, short_form=AISM_0000171, obo_id=AISM:0000171)>
+<Property(label=existence starts during or after, iri=http://purl.obolibrary.org/obo/RO_0002496, ontology_name=lepao, short_form=RO_0002496, obo_id=RO:0002496)>
+<Property(label=database_cross_reference, iri=http://www.geneontology.org/formats/oboInOwl#hasDbXref, ontology_name=lepao, short_form=hasDbXref, obo_id=None)>
+<Property(label=transitively_connected to, iri=http://purl.obolibrary.org/obo/uberon/core#transitively_connected_to, ontology_name=lepao, short_form=transitively_connected_to, obo_id=transitively_connected:to)>
+<Property(label=version, iri=http://www.geneontology.org/formats/oboInOwl#version, ontology_name=lepao, short_form=version, obo_id=None)>
+<Property(label=has_exact_synonym, iri=http://www.geneontology.org/formats/oboInOwl#hasExactSynonym, ontology_name=lepao, short_form=hasExactSynonym, obo_id=None)>
+<Property(label=decreased_in_magnitude_relative_to, iri=http://purl.obolibrary.org/obo/pato#decreased_in_magnitude_relative_to, ontology_name=lepao, short_form=decreased_in_magnitude_relative_to, obo_id=decreased_in_magnitude_relative:to)>
+<Property(label=left of, iri=http://purl.obolibrary.org/obo/BSPO_0000110, ontology_name=lepao, short_form=BSPO_0000110, obo_id=BSPO:0000110)>
+<Property(label=transitively anteriorly connected to, iri=http://purl.obolibrary.org/obo/uberon/core#transitively_anteriorly_connected_to, ontology_name=lepao, short_form=transitively_anteriorly_connected_to, obo_id=transitively_anteriorly_connected:to)>
+<Property(label=right of, iri=http://purl.obolibrary.org/obo/BSPO_0000111, ontology_name=lepao, short_form=BSPO_0000111, obo_id=BSPO:0000111)>
+<Property(label=existence ends during or before, iri=http://purl.obolibrary.org/obo/RO_0002497, ontology_name=lepao, short_form=RO_0002497, obo_id=RO:0002497)>
+<Property(label=connects, iri=http://purl.obolibrary.org/obo/RO_0002176, ontology_name=lepao, short_form=RO_0002176, obo_id=RO:0002176)>
+<Property(label=attached to part of, iri=http://purl.obolibrary.org/obo/RO_0002177, ontology_name=lepao, short_form=RO_0002177, obo_id=RO:0002177)>
+<Property(label=existence ends with, iri=http://purl.obolibrary.org/obo/RO_0002493, ontology_name=lepao, short_form=RO_0002493, obo_id=RO:0002493)>
+<Property(label=existence ends during, iri=http://purl.obolibrary.org/obo/RO_0002492, ontology_name=lepao, short_form=RO_0002492, obo_id=RO:0002492)>
+<Property(label=attached to, iri=http://purl.obolibrary.org/obo/RO_0002371, ontology_name=lepao, short_form=RO_0002371, obo_id=RO:0002371)>
+<Property(label=existence starts and ends during, iri=http://purl.obolibrary.org/obo/RO_0002491, ontology_name=lepao, short_form=RO_0002491, obo_id=RO:0002491)>
+<Property(label=depiction, iri=http://xmlns.com/foaf/0.1/depiction, ontology_name=lepao, short_form=depiction, obo_id=None)>
+<Property(label=anteriorly connected to, iri=http://purl.obolibrary.org/obo/uberon/core#anteriorly_connected_to, ontology_name=lepao, short_form=anteriorly_connected_to, obo_id=anteriorly_connected:to)>
+<Property(label=increased_in_magnitude_relative_to, iri=http://purl.obolibrary.org/obo/pato#increased_in_magnitude_relative_to, ontology_name=lepao, short_form=increased_in_magnitude_relative_to, obo_id=increased_in_magnitude_relative:to)>
+<Property(label=located in, iri=http://purl.obolibrary.org/obo/RO_0001025, ontology_name=lepao, short_form=RO_0001025, obo_id=RO:0001025)>
+<Property(label=only in taxon, iri=http://purl.obolibrary.org/obo/RO_0002160, ontology_name=lepao, short_form=RO_0002160, obo_id=RO:0002160)>
+<Property(label=in taxon, iri=http://purl.obolibrary.org/obo/RO_0002162, ontology_name=lepao, short_form=RO_0002162, obo_id=RO:0002162)>
+<Property(label=similar_in_magnitude_relative_to, iri=http://purl.obolibrary.org/obo/pato#similar_in_magnitude_relative_to, ontology_name=lepao, short_form=similar_in_magnitude_relative_to, obo_id=similar_in_magnitude_relative:to)>
+<Property(label=versionInfo, iri=http://www.w3.org/2002/07/owl#versionInfo, ontology_name=lepao, short_form=versionInfo, obo_id=None)>
+<Property(label=creation_date, iri=http://www.geneontology.org/formats/oboInOwl#creation_date, ontology_name=lepao, short_form=creation_date, obo_id=creation:date)>
+<Property(label=created_by, iri=http://www.geneontology.org/formats/oboInOwl#created_by, ontology_name=lepao, short_form=created_by, obo_id=created:by)>
+<Property(label=source, iri=http://www.geneontology.org/formats/oboInOwl#source, ontology_name=lepao, short_form=source, obo_id=None)>
+<Property(label=evolutionarily related to, iri=http://purl.obolibrary.org/obo/RO_0002320, ontology_name=lepao, short_form=RO_0002320, obo_id=RO:0002320)>
+<Property(label=encircles, iri=http://purl.obolibrary.org/obo/AISM_0000078, ontology_name=lepao, short_form=AISM_0000078, obo_id=AISM:0000078)>
+<Property(label=encircled by, iri=http://purl.obolibrary.org/obo/AISM_0000079, ontology_name=lepao, short_form=AISM_0000079, obo_id=AISM:0000079)>
+<Property(label=depicted_by, iri=http://xmlns.com/foaf/0.1/depicted_by, ontology_name=lepao, short_form=depicted_by, obo_id=depicted:by)>

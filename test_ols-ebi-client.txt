@@ -1,0 +1,748 @@
+<Term(obo_id=AISM:0000150, name=profemoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000150)>
+<Term(obo_id=AISM:0000147, name=femoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000147)>
+<Term(obo_id=AISM:0000148, name=tibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000148)>
+<Term(obo_id=AISM:0002064, name=insect leg muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002064)>
+<Term(obo_id=AISM:0000027, name=cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000027)>
+<Term(obo_id=AISM:0000008, name=cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000008)>
+<Term(obo_id=AISM:0000149, name=pretarsal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000149)>
+<Term(obo_id=AISM:0000028, name=solid cuticular protrusion, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000028)>
+<Term(obo_id=AISM:0000029, name=insect appendage, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000029)>
+<Term(obo_id=AISM:0000128, name=multicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000128)>
+<Term(obo_id=AISM:0000140, name=taenidium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000140)>
+<Term(obo_id=AISM:0000158, name=ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000158)>
+<Term(obo_id=AISM:0000141, name=mesofurca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000141)>
+<Term(obo_id=AISM:0000144, name=furca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000144)>
+<Term(obo_id=AISM:0000020, name=dorsal second axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000020)>
+<Term(obo_id=AISM:0004161, name=axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004161)>
+<Term(obo_id=AISM:0000142, name=metafurca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000142)>
+<Term(obo_id=AISM:0000021, name=abdominal tergite I, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000021)>
+<Term(obo_id=AISM:0004057, name=abdominal tergite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004057)>
+<Term(obo_id=AISM:0000143, name=profurca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000143)>
+<Term(obo_id=AISM:0000022, name=first axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000022)>
+<Term(obo_id=AISM:0000138, name=apophysis, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000138)>
+<Term(obo_id=AISM:0000136, name=branching cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000136)>
+<Term(obo_id=AISM:0000023, name=galea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000023)>
+<Term(obo_id=AISM:0000145, name=procoxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000145)>
+<Term(obo_id=AISM:0000086, name=coxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000086)>
+<Term(obo_id=AISM:0000024, name=labial palpus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000024)>
+<Term(obo_id=AISM:0000146, name=metacoxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000146)>
+<Term(obo_id=PATO:0000587, name=decreased size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000587)>
+<Term(obo_id=PATO:0000117, name=size, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000117)>
+<Term(obo_id=AISM:0000026, name=lacinia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000026)>
+<Term(obo_id=PATO:0000591, name=increased thickness, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000591)>
+<Term(obo_id=PATO:0000915, name=thickness, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000915)>
+<Term(obo_id=PATO:0000592, name=decreased thickness, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000592)>
+<Term(obo_id=AISM:0000137, name=malphigian tube, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000137)>
+<Term(obo_id=AISM:0000016, name=cranio-antennal articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000016)>
+<Term(obo_id=AISM:0000002, name=insect articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000002)>
+<Term(obo_id=AISM:0000006, name=cuticular invagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000006)>
+<Term(obo_id=AISM:0000188, name=apodeme, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000188)>
+<Term(obo_id=AISM:0000017, name=head-cervical articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000017)>
+<Term(obo_id=AISM:0000018, name=cardo, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000018)>
+<Term(obo_id=AISM:0000003, name=sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000003)>
+<Term(obo_id=AISM:0000019, name=head capsule, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000019)>
+<Term(obo_id=PATO:0002539, name=ring shaped, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0002539)>
+<Term(obo_id=PATO:0000052, name=shape, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000052)>
+<Term(obo_id=AISM:0000130, name=uniporous sensillum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000130)>
+<Term(obo_id=AISM:0000039, name=seta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000039)>
+<Term(obo_id=None, name=Thing, ontology_id=lepao, namespace=lepao subsets=None, short_form=Thing)>
+<Term(obo_id=AISM:0000131, name=multiporous sensillum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000131)>
+<Term(obo_id=AISM:0000132, name=placoid sensillum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000132)>
+<Term(obo_id=AISM:0000133, name=multiporous plate, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000133)>
+<Term(obo_id=AISM:0000134, name=exocrine gland duct, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000134)>
+<Term(obo_id=AISM:0000013, name=evaginated, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000013)>
+<Term(obo_id=PATO:0001355, name=convex, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001355)>
+<Term(obo_id=AISM:0000135, name=spiracle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000135)>
+<Term(obo_id=AISM:0000174, name=region of cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000174)>
+<Term(obo_id=AISM:0000014, name=cranio-mandibular articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000014)>
+<Term(obo_id=AISM:0000015, name=cranio-cardinal articulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000015)>
+<Term(obo_id=AISM:0000170, name=metapectus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000170)>
+<Term(obo_id=AISM:0000050, name=paraglossa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000050)>
+<Term(obo_id=AISM:0000172, name=intertarsomeral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000172)>
+<Term(obo_id=AISM:0000102, name=ring conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000102)>
+<Term(obo_id=AISM:0000051, name=maxillary palpus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000051)>
+<Term(obo_id=AISM:0000049, name=glossa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000049)>
+<Term(obo_id=PATO:0001419, name=sharp, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001419)>
+<Term(obo_id=AISM:0000162, name=sulcus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000162)>
+<Term(obo_id=AISM:0000157, name=groove, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000157)>
+<Term(obo_id=AISM:0000041, name=scale, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000041)>
+<Term(obo_id=AISM:0000163, name=discrimen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000163)>
+<Term(obo_id=AISM:0000042, name=labrum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000042)>
+<Term(obo_id=AISM:0000165, name=mouthpart, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000165)>
+<Term(obo_id=AISM:0000043, name=insect mandible, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000043)>
+<Term(obo_id=AISM:0000044, name=insect maxilla, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000044)>
+<Term(obo_id=AISM:0000166, name=propleuro-procoxal artiulation, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000166)>
+<Term(obo_id=AISM:0000045, name=mesothoracic-metathoracic conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000045)>
+<Term(obo_id=AISM:0000004, name=conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000004)>
+<Term(obo_id=AISM:0000167, name=articular surface, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000167)>
+<Term(obo_id=UBERON:0006984, name=anatomical surface, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0006984)>
+<Term(obo_id=AISM:0000046, name=prothoracic-mesothoracic conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000046)>
+<Term(obo_id=AISM:0000168, name=salivary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000168)>
+<Term(obo_id=AISM:0000047, name=pretarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000047)>
+<Term(obo_id=AISM:0000169, name=metanotum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000169)>
+<Term(obo_id=AISM:0004128, name=notum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004128)>
+<Term(obo_id=AISM:0000048, name=ligula, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000048)>
+<Term(obo_id=AISM:0000160, name=pouch, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000160)>
+<Term(obo_id=AISM:0000161, name=discrimenal lamella, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000161)>
+<Term(obo_id=AISM:0000040, name=spur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000040)>
+<Term(obo_id=AISM:0000159, name=salivarium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000159)>
+<Term(obo_id=AISM:0000038, name=hind wing, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000038)>
+<Term(obo_id=AISM:0000033, name=insect wing, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000033)>
+<Term(obo_id=AISM:0000127, name=unicellular cuticular evagination, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000127)>
+<Term(obo_id=AISM:0000151, name=mesofemoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000151)>
+<Term(obo_id=AISM:0000152, name=metafemoral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000152)>
+<Term(obo_id=AISM:0000031, name=insect leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000031)>
+<Term(obo_id=AISM:0000153, name=protibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000153)>
+<Term(obo_id=AISM:0000032, name=antenna, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000032)>
+<Term(obo_id=AISM:0000154, name=mesotibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000154)>
+<Term(obo_id=AISM:0000155, name=metatibial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000155)>
+<Term(obo_id=AISM:0000034, name=fore leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000034)>
+<Term(obo_id=AISM:0000156, name=fovea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000156)>
+<Term(obo_id=AISM:0000005, name=cuticular depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000005)>
+<Term(obo_id=AISM:0000035, name=mid leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000035)>
+<Term(obo_id=PATO:0001543, name=flexibility, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001543)>
+<Term(obo_id=AISM:0000036, name=hind leg, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000036)>
+<Term(obo_id=AISM:0000000, name=cuticular internal depression, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000000)>
+<Term(obo_id=AISM:0000037, name=fore wing, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000037)>
+<Term(obo_id=AISM:0000190, name=antennifer, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000190)>
+<Term(obo_id=AISM:0000191, name=tentorium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000191)>
+<Term(obo_id=AISM:0000070, name=profemur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000070)>
+<Term(obo_id=AISM:0000076, name=femur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000076)>
+<Term(obo_id=AISM:0000192, name=tentorio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000192)>
+<Term(obo_id=AISM:0000080, name=insect cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000080)>
+<Term(obo_id=AISM:0000071, name=mesofemur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000071)>
+<Term(obo_id=AISM:0000193, name=cuticular pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000193)>
+<Term(obo_id=AISM:0000072, name=metafemur, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000072)>
+<Term(obo_id=AISM:0000194, name=anterior tentorial pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000194)>
+<Term(obo_id=AISM:0000196, name=tentorial pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000196)>
+<Term(obo_id=AISM:0000073, name=mere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000073)>
+<Term(obo_id=AISM:0000062, name=ring sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000062)>
+<Term(obo_id=AISM:0002008, name=medial scapo-pedicellar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002008)>
+<Term(obo_id=AISM:0000081, name=cranio-antennal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000081)>
+<Term(obo_id=AISM:0002007, name=lateral scapo-pedicellar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002007)>
+<Term(obo_id=AISM:0002009, name=frontolabral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002009)>
+<Term(obo_id=AISM:0000084, name=cranio-labral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000084)>
+<Term(obo_id=AISM:0000063, name=appendage segment, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000063)>
+<Term(obo_id=AISM:0000185, name=sensillum chaeticum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000185)>
+<Term(obo_id=AISM:0000064, name=mesocoxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000064)>
+<Term(obo_id=AISM:0000077, name=coxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000077)>
+<Term(obo_id=AISM:0000186, name=sensillum trichodeum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000186)>
+<Term(obo_id=AISM:0000065, name=metacoxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000065)>
+<Term(obo_id=AISM:0002002, name=anterior tentorio-scapal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002002)>
+<Term(obo_id=AISM:0000187, name=sensillum coeloconicum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000187)>
+<Term(obo_id=AISM:0000066, name=procoxa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000066)>
+<Term(obo_id=AISM:0000067, name=protibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000067)>
+<Term(obo_id=AISM:0000075, name=tibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000075)>
+<Term(obo_id=AISM:0002004, name=lateral tentorio-scapal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002004)>
+<Term(obo_id=AISM:0000189, name=sensillum basiconicum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000189)>
+<Term(obo_id=AISM:0002003, name=posterior tentorio-scapal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002003)>
+<Term(obo_id=AISM:0000068, name=mesotibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000068)>
+<Term(obo_id=AISM:0002006, name=fronto-pedicellar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002006)>
+<Term(obo_id=AISM:0000069, name=metatibia, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000069)>
+<Term(obo_id=AISM:0002005, name=medial tentorio-scapal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002005)>
+<Term(obo_id=AISM:0000060, name=labial palpomere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000060)>
+<Term(obo_id=AISM:0000061, name=prosternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000061)>
+<Term(obo_id=AISM:0004130, name=sternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004130)>
+<Term(obo_id=BSPO:0000062, name=distal side, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000062)>
+<Term(obo_id=BSPO:0000070, name=anatomical region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000070)>
+<Term(obo_id=PR:Q9V7U0, name=pro-resilin (fruit fly), ontology_id=lepao, namespace=lepao subsets=None, short_form=PR_Q9V7U0)>
+<Term(obo_id=BSPO:0000061, name=proximal side, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000061)>
+<Term(obo_id=UBERON:0000955, name=brain, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000955)>
+<Term(obo_id=LEPAO:0000006, name=anatomical entity, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000006)>
+<Term(obo_id=BSPO:0000069, name=dorso-medial region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000069)>
+<Term(obo_id=BSPO:0000079, name=dorsal region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000079)>
+<Term(obo_id=BSPO:0000083, name=medial region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000083)>
+<Term(obo_id=AISM:0000173, name=basal coxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000173)>
+<Term(obo_id=AISM:0000052, name=mesonotum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000052)>
+<Term(obo_id=AISM:0000053, name=mesopectus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000053)>
+<Term(obo_id=AISM:0000054, name=mesotrochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000054)>
+<Term(obo_id=AISM:0004135, name=trochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004135)>
+<Term(obo_id=PATO:0002219, name=fan-shaped, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0002219)>
+<Term(obo_id=AISM:0000055, name=protrochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000055)>
+<Term(obo_id=AISM:0000177, name=pore canal, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000177)>
+<Term(obo_id=UBERON:0000464, name=anatomical space, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000464)>
+<Term(obo_id=PATO:0001369, name=raised, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001369)>
+<Term(obo_id=AISM:0000056, name=metatrochantin, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000056)>
+<Term(obo_id=AISM:0000178, name=acantha, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000178)>
+<Term(obo_id=AISM:0000057, name=prementum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000057)>
+<Term(obo_id=AISM:0000058, name=prepectus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000058)>
+<Term(obo_id=AISM:0000059, name=pronotum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000059)>
+<Term(obo_id=AISM:0000090, name=cuticular tendon, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000090)>
+<Term(obo_id=AISM:0000007, name=elastic cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000007)>
+<Term(obo_id=AISM:0000091, name=trachea, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000091)>
+<Term(obo_id=AISM:0000093, name=hypopharynx, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000093)>
+<Term(obo_id=AISM:0002031, name=stipital ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002031)>
+<Term(obo_id=AISM:0000094, name=mesopleuro-metapleural conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000094)>
+<Term(obo_id=AISM:0000095, name=metasterno-metacoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000095)>
+<Term(obo_id=AISM:0002030, name=anterior tentorio-stipital muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002030)>
+<Term(obo_id=AISM:0002026, name=insect cranio-maxillar muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002026)>
+<Term(obo_id=BSPO:0000072, name=posterior region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000072)>
+<Term(obo_id=BSPO:0000071, name=anterior region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000071)>
+<Term(obo_id=AISM:0004209, name=pronoto-mesonotal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004209)>
+<Term(obo_id=AISM:0004208, name=tergo-tergal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004208)>
+<Term(obo_id=AISM:0002029, name=tentorio-cardinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002029)>
+<Term(obo_id=AISM:0004207, name=metanoto-metatrochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004207)>
+<Term(obo_id=AISM:0004204, name=tergo-trochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004204)>
+<Term(obo_id=AISM:0002065, name=insect thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002065)>
+<Term(obo_id=BSPO:0000077, name=proximal region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000077)>
+<Term(obo_id=AISM:0004201, name=phallobasal-parameral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004201)>
+<Term(obo_id=AISM:0000085, name=mesocoxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000085)>
+<Term(obo_id=AISM:0002022, name=superolateral tentorio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002022)>
+<Term(obo_id=AISM:0000082, name=cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000082)>
+<Term(obo_id=AISM:0002021, name=hypopharyngeomandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002021)>
+<Term(obo_id=AISM:0004202, name=propleuro-prosternal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004202)>
+<Term(obo_id=AISM:0000087, name=labium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000087)>
+<Term(obo_id=AISM:0002024, name=superomedial tentorio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002024)>
+<Term(obo_id=AISM:0004200, name=paramero-aedeagal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004200)>
+<Term(obo_id=AISM:0002023, name=inferolateral tentorio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002023)>
+<Term(obo_id=AISM:0000088, name=eye cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000088)>
+<Term(obo_id=AISM:0004205, name=pronoto-protrochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004205)>
+<Term(obo_id=AISM:0000089, name=ligament, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000089)>
+<Term(obo_id=UBERON:0001134, name=skeletal muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001134)>
+<Term(obo_id=AISM:0004206, name=mesonoto-mesotrochantinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004206)>
+<Term(obo_id=AISM:0002025, name=inferomedial tentorio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002025)>
+<Term(obo_id=AISM:0002028, name=cranio-lacinial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002028)>
+<Term(obo_id=AISM:0004203, name=basal wing conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004203)>
+<Term(obo_id=AISM:0002027, name=cranio-cardinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002027)>
+<Term(obo_id=AISM:0000083, name=cranio-labial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000083)>
+<Term(obo_id=BSPO:0000084, name=ventral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000084)>
+<Term(obo_id=BSPO:0000085, name=ventro-lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000085)>
+<Term(obo_id=BSPO:0000082, name=lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000082)>
+<Term(obo_id=BSPO:0000080, name=dorso-lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000080)>
+<Term(obo_id=AISM:0002019, name=suspensorium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002019)>
+<Term(obo_id=AISM:0002018, name=anteroexternal cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002018)>
+<Term(obo_id=AISM:0000195, name=posterior tetorial pit, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000195)>
+<Term(obo_id=AISM:0000074, name=tarsomere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000074)>
+<Term(obo_id=AISM:0002011, name=frontoepypharyngeal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002011)>
+<Term(obo_id=AISM:0002010, name=epistoepipharyngeal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002010)>
+<Term(obo_id=AISM:0000197, name=arthropod foramen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000197)>
+<Term(obo_id=AISM:0002013, name=transversal labral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002013)>
+<Term(obo_id=AISM:0000198, name=antennal foramen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000198)>
+<Term(obo_id=AISM:0002012, name=tormae, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002012)>
+<Term(obo_id=AISM:0002014, name=internal cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002014)>
+<Term(obo_id=AISM:0002017, name=posteroexternal cranio-mandibular muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002017)>
+<Term(obo_id=AISM:0004230, name=mesopleuro-mesocoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004230)>
+<Term(obo_id=AISM:0002051, name=tentorio-premental muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002051)>
+<Term(obo_id=AISM:0004110, name=abdominal sternite VIII, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004110)>
+<Term(obo_id=AISM:0004058, name=abdominal sternite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004058)>
+<Term(obo_id=AISM:0004231, name=mesopleuro-mesosternal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004231)>
+<Term(obo_id=AISM:0002050, name=postoccipitopremental muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002050)>
+<Term(obo_id=AISM:0002053, name=submentopremental muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002053)>
+<Term(obo_id=AISM:0002052, name=tentorio-paraglossal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002052)>
+<Term(obo_id=AISM:0004108, name=abdominal sternite VI, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004108)>
+<Term(obo_id=AISM:0004229, name=mesonoto-metanotal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004229)>
+<Term(obo_id=AISM:0004109, name=abdominal sternite VII, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004109)>
+<Term(obo_id=AISM:0004102, name=metasterno-abdominal sternite I conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004102)>
+<Term(obo_id=AISM:0004223, name=third axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004223)>
+<Term(obo_id=AISM:0002044, name=third maxillar palpopalpal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002044)>
+<Term(obo_id=AISM:0004103, name=abdominal sternite I-abdominal sternite II conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004103)>
+<Term(obo_id=AISM:0002043, name=second maxillar palpopalpal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002043)>
+<Term(obo_id=AISM:0004224, name=ventral second axillary sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004224)>
+<Term(obo_id=AISM:0004100, name=abdominal sternite I, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004100)>
+<Term(obo_id=AISM:0004221, name=metanoto-metapleural conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004221)>
+<Term(obo_id=AISM:0004222, name=noto-pleural conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004222)>
+<Term(obo_id=AISM:0004101, name=metapleuro-metasternal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004101)>
+<Term(obo_id=AISM:0002045, name=fourth maxillar palpopalpal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002045)>
+<Term(obo_id=PATO:0000984, name=porous, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000984)>
+<Term(obo_id=AISM:0004106, name=abdominal sternite IV, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004106)>
+<Term(obo_id=AISM:0004227, name=metafurco-abdominal sternite muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004227)>
+<Term(obo_id=AISM:0002048, name=phragma, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002048)>
+<Term(obo_id=AISM:0004107, name=abdominal sternite V, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004107)>
+<Term(obo_id=AISM:0004228, name=metaphragma, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004228)>
+<Term(obo_id=AISM:0002047, name=postoccipitoglossal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002047)>
+<Term(obo_id=AISM:0004104, name=abdominal sternite II, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004104)>
+<Term(obo_id=AISM:0004225, name=mesophragma, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004225)>
+<Term(obo_id=AISM:0004105, name=abdominal sternite III, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004105)>
+<Term(obo_id=AISM:0004226, name=mesophragmo-abdominal tergite I muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004226)>
+<Term(obo_id=AISM:0002049, name=postoccipital phragma, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002049)>
+<Term(obo_id=AISM:0002040, name=maxillary palpomere IV, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002040)>
+<Term(obo_id=AISM:0002036, name=maxillary palpomere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002036)>
+<Term(obo_id=AISM:0004220, name=pronoto-propleural conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004220)>
+<Term(obo_id=AISM:0002042, name=first maxillar palpopalpal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002042)>
+<Term(obo_id=AISM:0002041, name=maxillary palpomere V, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002041)>
+<Term(obo_id=CARO:0000008, name=anatomical line, ontology_id=lepao, namespace=lepao subsets=None, short_form=CARO_0000008)>
+<Term(obo_id=AISM:0004218, name=mesofurco-metafurcal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004218)>
+<Term(obo_id=AISM:0004216, name=interfurcal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004216)>
+<Term(obo_id=AISM:0004219, name=mesonoto-mesopleural conjuntiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004219)>
+<Term(obo_id=AISM:0004212, name=tergo-trochanteral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004212)>
+<Term(obo_id=AISM:0000096, name=prosternal-procoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000096)>
+<Term(obo_id=AISM:0002033, name=stipito-lacinial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002033)>
+<Term(obo_id=AISM:0002032, name=posterior tentorio-stipital muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002032)>
+<Term(obo_id=AISM:0000097, name=metapleuro-metacoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000097)>
+<Term(obo_id=AISM:0004213, name=pleuro-coxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004213)>
+<Term(obo_id=AISM:0000098, name=neck membrane, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000098)>
+<Term(obo_id=AISM:0004210, name=mesonoto-metanotal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004210)>
+<Term(obo_id=AISM:0002035, name=stipito-palpal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002035)>
+<Term(obo_id=AISM:0004211, name=tergo-coxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004211)>
+<Term(obo_id=AISM:0002034, name=stipito-galeal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002034)>
+<Term(obo_id=AISM:0000099, name=oral foraminal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000099)>
+<Term(obo_id=AISM:0002037, name=maxillary palpomere I, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002037)>
+<Term(obo_id=AISM:0004217, name=profurco-mesofurcal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004217)>
+<Term(obo_id=AISM:0002039, name=maxillary palpomere III, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002039)>
+<Term(obo_id=AISM:0004214, name=furco-coxal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004214)>
+<Term(obo_id=AISM:0004215, name=furco-trochanteral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004215)>
+<Term(obo_id=AISM:0002038, name=maxillary palpomere II, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002038)>
+<Term(obo_id=AISM:0002071, name=prophragma-occipital muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002071)>
+<Term(obo_id=AISM:0002066, name=dorsal longitudinal thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002066)>
+<Term(obo_id=AISM:0002070, name=ventral-longitudinal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002070)>
+<Term(obo_id=AISM:0004131, name=pleurite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004131)>
+<Term(obo_id=AISM:0004252, name=media, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004252)>
+<Term(obo_id=AISM:0004243, name=insect wing vein, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004243)>
+<Term(obo_id=AISM:0004010, name=stipito-palpiferal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004010)>
+<Term(obo_id=AISM:0002073, name=prophragma-cervical muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002073)>
+<Term(obo_id=AISM:0004132, name=pleural ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004132)>
+<Term(obo_id=AISM:0004253, name=jugal fold, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004253)>
+<Term(obo_id=AISM:0004244, name=insect wing fold, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004244)>
+<Term(obo_id=AISM:0004011, name=stipito-galeal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004011)>
+<Term(obo_id=AISM:0002072, name=pronoto-occipital muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002072)>
+<Term(obo_id=AISM:0002075, name=pronoto-phragmal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002075)>
+<Term(obo_id=AISM:0004250, name=jugal field, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004250)>
+<Term(obo_id=AISM:0004242, name=insect wing region, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004242)>
+<Term(obo_id=AISM:0004251, name=jugal vein, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004251)>
+<Term(obo_id=AISM:0002074, name=dorsal cervico-occipital muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002074)>
+<Term(obo_id=AISM:0004009, name=stipito-lacinial conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004009)>
+<Term(obo_id=AISM:0004124, name=abdominal sternite IX-phallobase conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004124)>
+<Term(obo_id=AISM:0004003, name=postmentum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004003)>
+<Term(obo_id=AISM:0004245, name=anal field, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004245)>
+<Term(obo_id=AISM:0004125, name=prothorax, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004125)>
+<Term(obo_id=AISM:0004004, name=mentum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004004)>
+<Term(obo_id=AISM:0004246, name=anal vein, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004246)>
+<Term(obo_id=AISM:0004122, name=abdominal tergite IX-abdominal tergite X conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004122)>
+<Term(obo_id=PATO:0000964, name=transparent, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000964)>
+<Term(obo_id=AISM:0004001, name=palpifer, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004001)>
+<Term(obo_id=AISM:0002068, name=tergo-pleural muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002068)>
+<Term(obo_id=AISM:0004123, name=abdominal sternite VIII-abdominal sternite IX conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004123)>
+<Term(obo_id=AISM:0004002, name=mental-premental conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004002)>
+<Term(obo_id=AISM:0002067, name=dorso-ventral thoracic muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002067)>
+<Term(obo_id=AISM:0004007, name=antenniferal-scapal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004007)>
+<Term(obo_id=AISM:0004249, name=cubitus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004249)>
+<Term(obo_id=AISM:0004129, name=pleuron, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004129)>
+<Term(obo_id=AISM:0004008, name=interflagellomeral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004008)>
+<Term(obo_id=AISM:0002069, name=sterno-pleural muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002069)>
+<Term(obo_id=AISM:0004126, name=mesothorax, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004126)>
+<Term(obo_id=AISM:0004005, name=submentum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004005)>
+<Term(obo_id=AISM:0004247, name=costa, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004247)>
+<Term(obo_id=AISM:0004127, name=metathorax, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004127)>
+<Term(obo_id=AISM:0004006, name=palpiger, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004006)>
+<Term(obo_id=AISM:0004248, name=costal field, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004248)>
+<Term(obo_id=AISM:0002060, name=tentorio-oral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002060)>
+<Term(obo_id=AISM:0002058, name=cranio-hypopharyngeal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002058)>
+<Term(obo_id=AISM:0004120, name=abdominal tergite X-epiproct conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004120)>
+<Term(obo_id=AISM:0004241, name=temple, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004241)>
+<Term(obo_id=AISM:0002062, name=tentorio-frontal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002062)>
+<Term(obo_id=AISM:0002061, name=insect cranio-tentorial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002061)>
+<Term(obo_id=AISM:0004121, name=abdominal tergite VIII-abdominal tergite IX conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004121)>
+<Term(obo_id=AISM:0004240, name=epicranial suture, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004240)>
+<Term(obo_id=AISM:0004028, name=suture, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004028)>
+<Term(obo_id=AISM:0002063, name=tentorio-tentorial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002063)>
+<Term(obo_id=UBERON:0000020, name=sense organ, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0000020)>
+<Term(obo_id=AISM:0004119, name=abdominal sternite IX, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004119)>
+<Term(obo_id=AISM:0004113, name=abdominal sternite IV-abdominal sternite V conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004113)>
+<Term(obo_id=AISM:0004234, name=circular pouch, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004234)>
+<Term(obo_id=AISM:0002055, name=premento-paraglossal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002055)>
+<Term(obo_id=AISM:0004114, name=abdominal sternite V-abdominal sternite VI conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004114)>
+<Term(obo_id=AISM:0002054, name=submentomental muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002054)>
+<Term(obo_id=AISM:0004235, name=ectodermal gland, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004235)>
+<Term(obo_id=AISM:0004111, name=abdominal sternite II-abdominal sternite III conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004111)>
+<Term(obo_id=AISM:0004232, name=metasternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004232)>
+<Term(obo_id=AISM:0002057, name=premento-palpal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002057)>
+<Term(obo_id=AISM:0004112, name=abdominal sternite III-abdominal sternite IV conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004112)>
+<Term(obo_id=AISM:0004233, name=mesosterno-mesocoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004233)>
+<Term(obo_id=AISM:0002056, name=premento-glossal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002056)>
+<Term(obo_id=AISM:0004117, name=abdominal tergite IX, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004117)>
+<Term(obo_id=AISM:0004238, name=multicellular ectodermal gland, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004238)>
+<Term(obo_id=AISM:0002059, name=fronto-oral muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002059)>
+<Term(obo_id=AISM:0004118, name=abdominal tergite X, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004118)>
+<Term(obo_id=AISM:0004239, name=occiput, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004239)>
+<Term(obo_id=AISM:0004115, name=abdominal sternite VI-abdominal sternite VII conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004115)>
+<Term(obo_id=AISM:0004236, name=unicellular ectodermal gland, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004236)>
+<Term(obo_id=AISM:0004116, name=abdominal sternite VII-abdominal sternite VIII conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004116)>
+<Term(obo_id=AISM:0004237, name=lobe, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004237)>
+<Term(obo_id=AISM:0004150, name=postalar bridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004150)>
+<Term(obo_id=AISM:0004153, name=subalare, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004153)>
+<Term(obo_id=AISM:0004151, name=epipleurite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004151)>
+<Term(obo_id=AISM:0004032, name=subgenal ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004032)>
+<Term(obo_id=AISM:0004154, name=anepisternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004154)>
+<Term(obo_id=AISM:0004033, name=hypostomal bridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004033)>
+<Term(obo_id=AISM:0004030, name=coronal suture, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004030)>
+<Term(obo_id=AISM:0004152, name=basalare, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004152)>
+<Term(obo_id=AISM:0004031, name=pleurostomal ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004031)>
+<Term(obo_id=AISM:0004146, name=scutellum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004146)>
+<Term(obo_id=AISM:0004025, name=vertex, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004025)>
+<Term(obo_id=AISM:0002088, name=dorsal longitudinal abdominal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002088)>
+<Term(obo_id=AISM:0002085, name=insect abdominal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002085)>
+<Term(obo_id=AISM:0004147, name=alinotum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004147)>
+<Term(obo_id=AISM:0002087, name=ventral longitudinal abdominal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002087)>
+<Term(obo_id=AISM:0004026, name=gena, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004026)>
+<Term(obo_id=AISM:0004144, name=prescutum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004144)>
+<Term(obo_id=AISM:0004023, name=foramen occipitale, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004023)>
+<Term(obo_id=AISM:0004145, name=scutum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004145)>
+<Term(obo_id=AISM:0004024, name=tentorial bridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004024)>
+<Term(obo_id=AISM:0004029, name=frontal suture, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004029)>
+<Term(obo_id=AISM:0004148, name=prealar sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004148)>
+<Term(obo_id=PATO:0001873, name=cylindrical, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001873)>
+<Term(obo_id=AISM:0004027, name=subgena, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004027)>
+<Term(obo_id=AISM:0004149, name=prealar bridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004149)>
+<Term(obo_id=AISM:0002080, name=prophragma-tentorial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002080)>
+<Term(obo_id=UBERON:6007289, name=insect tagmatic subdivision of integument, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_6007289)>
+<Term(obo_id=UBERON:6007284, name=insect region of integument, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_6007284)>
+<Term(obo_id=AISM:0004260, name=pretarsal claw, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004260)>
+<Term(obo_id=AISM:0002082, name=profurca-occipital muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002082)>
+<Term(obo_id=AISM:0002081, name=profurca-prophragmal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002081)>
+<Term(obo_id=AISM:0004142, name=propleuron, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004142)>
+<Term(obo_id=AISM:0004021, name=postoccipital ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004021)>
+<Term(obo_id=AISM:0002084, name=profurca-mesonotal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002084)>
+<Term(obo_id=AISM:0004143, name=postnotum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004143)>
+<Term(obo_id=AISM:0004022, name=circumocular ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004022)>
+<Term(obo_id=AISM:0002083, name=prophragma-mesophragmal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002083)>
+<Term(obo_id=AISM:0004140, name=poststernite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004140)>
+<Term(obo_id=AISM:0002086, name=lateral abdominal muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002086)>
+<Term(obo_id=AISM:0004261, name=empodium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004261)>
+<Term(obo_id=AISM:0004141, name=cervical sclerite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004141)>
+<Term(obo_id=AISM:0004262, name=frontoclypeal sulcus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004262)>
+<Term(obo_id=AISM:0004020, name=frons, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004020)>
+<Term(obo_id=LEPAO:0000079, name=organ system subdivision, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000079)>
+<Term(obo_id=AISM:0004014, name=premental-palpigeral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004014)>
+<Term(obo_id=AISM:0004256, name=radius, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004256)>
+<Term(obo_id=AISM:0004136, name=presternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004136)>
+<Term(obo_id=AISM:0002076, name=prophragma, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002076)>
+<Term(obo_id=AISM:0004257, name=subcosta, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004257)>
+<Term(obo_id=AISM:0004015, name=premental-paraglossal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004015)>
+<Term(obo_id=AISM:0004133, name=episternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004133)>
+<Term(obo_id=AISM:0004012, name=palpifero-palpal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004012)>
+<Term(obo_id=AISM:0004254, name=anal fold, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004254)>
+<Term(obo_id=AISM:0002079, name=anterior pronoto-cervical muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002079)>
+<Term(obo_id=AISM:0004134, name=epimeron, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004134)>
+<Term(obo_id=AISM:0004013, name=submental-mental conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004013)>
+<Term(obo_id=AISM:0004255, name=postcubitus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004255)>
+<Term(obo_id=AISM:0002078, name=anterior cervico-occipital muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0002078)>
+<Term(obo_id=AISM:0004139, name=spinasternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004139)>
+<Term(obo_id=AISM:0004018, name=clypeo-labral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004018)>
+<Term(obo_id=AISM:0004019, name=clypeus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004019)>
+<Term(obo_id=AISM:0004137, name=basisternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004137)>
+<Term(obo_id=AISM:0004016, name=premental-glossal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004016)>
+<Term(obo_id=AISM:0004258, name=axillary region, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004258)>
+<Term(obo_id=AISM:0004138, name=furcasternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004138)>
+<Term(obo_id=AISM:0004259, name=basal fold, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004259)>
+<Term(obo_id=AISM:0004017, name=palpigero-palpal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004017)>
+<Term(obo_id=AISM:0004171, name=protrochanter, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004171)>
+<Term(obo_id=AISM:0004168, name=trochanter, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004168)>
+<Term(obo_id=AISM:0004050, name=anteclypeus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004050)>
+<Term(obo_id=AISM:0004172, name=mesotrochanter, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004172)>
+<Term(obo_id=AISM:0004051, name=clypeolabrum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004051)>
+<Term(obo_id=AISM:0004170, name=coxal-trochanteral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004170)>
+<Term(obo_id=AISM:0004175, name=protrochantero-profemoral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004175)>
+<Term(obo_id=AISM:0004174, name=trochantero-femoral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004174)>
+<Term(obo_id=AISM:0004054, name=laminatentoria, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004054)>
+<Term(obo_id=AISM:0004176, name=mesotrochantero-mesofemoral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004176)>
+<Term(obo_id=AISM:0004055, name=preabdomen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004055)>
+<Term(obo_id=AISM:0004173, name=metatrochanter, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004173)>
+<Term(obo_id=AISM:0004052, name=compound eye, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004052)>
+<Term(obo_id=AISM:0004053, name=ocellus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004053)>
+<Term(obo_id=PATO:0000407, name=flat, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000407)>
+<Term(obo_id=PATO:0002254, name=flattened, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0002254)>
+<Term(obo_id=PATO:0001857, name=concave, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001857)>
+<Term(obo_id=AISM:0004047, name=hypostomal ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004047)>
+<Term(obo_id=AISM:0004169, name=tarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004169)>
+<Term(obo_id=AISM:0004048, name=occipital ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004048)>
+<Term(obo_id=AISM:0004166, name=pterothorax, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004166)>
+<Term(obo_id=AISM:0004045, name=postocciput, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004045)>
+<Term(obo_id=AISM:0004167, name=abdominal tergite X-paraproct conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004167)>
+<Term(obo_id=AISM:0004046, name=hypostoma, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004046)>
+<Term(obo_id=PATO:0000404, name=coiled, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000404)>
+<Term(obo_id=PATO:0000402, name=branched, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000402)>
+<Term(obo_id=AISM:0004049, name=postclypeus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004049)>
+<Term(obo_id=AISM:0004160, name=katepimeron, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004160)>
+<Term(obo_id=AISM:0004040, name=alaforamen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004040)>
+<Term(obo_id=AISM:0004043, name=postgenal bridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004043)>
+<Term(obo_id=AISM:0004165, name=cercus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004165)>
+<Term(obo_id=AISM:0004044, name=circumantennal ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004044)>
+<Term(obo_id=AISM:0004162, name=precoxal ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004162)>
+<Term(obo_id=AISM:0004041, name=neuroforamen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004041)>
+<Term(obo_id=AISM:0004163, name=spina, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004163)>
+<Term(obo_id=AISM:0004042, name=postgena, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004042)>
+<Term(obo_id=UBERON:0001555, name=digestive tract, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001555)>
+<Term(obo_id=AISM:0004157, name=ecdysial line, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004157)>
+<Term(obo_id=AISM:0004036, name=gular ridges, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004036)>
+<Term(obo_id=AISM:0004158, name=katepisternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004158)>
+<Term(obo_id=AISM:0004037, name=posterior tentorial arm, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004037)>
+<Term(obo_id=PATO:0001748, name=invaginated, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001748)>
+<Term(obo_id=AISM:0004155, name=preepisternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004155)>
+<Term(obo_id=AISM:0004034, name=frontoclypeal ridge, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004034)>
+<Term(obo_id=AISM:0004156, name=anapleural sulcus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004156)>
+<Term(obo_id=AISM:0004035, name=gula, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004035)>
+<Term(obo_id=AISM:0004159, name=anepimeron, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004159)>
+<Term(obo_id=AISM:0004038, name=anterior tentorial arm, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004038)>
+<Term(obo_id=AISM:0004039, name=dorsal tentorial arm, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004039)>
+<Term(obo_id=PATO:0000411, name=circular, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0000411)>
+<Term(obo_id=AISM:0004193, name=metatarso-metapretarsal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004193)>
+<Term(obo_id=AISM:0004187, name=tarso-pretarsal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004187)>
+<Term(obo_id=LEPAO:0000064, name=polysaccharides, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000064)>
+<Term(obo_id=LEPAO:0000015, name=carbohydrate, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000015)>
+<Term(obo_id=AISM:0004072, name=trichobothrium, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004072)>
+<Term(obo_id=AISM:0004194, name=propretarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004194)>
+<Term(obo_id=LEPAO:0000065, name=basal lamina, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000065)>
+<Term(obo_id=LEPAO:0000063, name=acellular layer, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000063)>
+<Term(obo_id=AISM:0004073, name=paraphyses, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004073)>
+<Term(obo_id=AISM:0004191, name=protarso-propretarsal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004191)>
+<Term(obo_id=LEPAO:0000066, name=reticular layer, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000066)>
+<Term(obo_id=AISM:0004070, name=gonapophysis, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004070)>
+<Term(obo_id=AISM:0004192, name=mesotarso-mesopretarsal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004192)>
+<Term(obo_id=LEPAO:0000067, name=collagen, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000067)>
+<Term(obo_id=LEPAO:0000011, name=protein, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000011)>
+<Term(obo_id=AISM:0004071, name=sensillum placodeum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004071)>
+<Term(obo_id=AISM:0004197, name=insect anus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004197)>
+<Term(obo_id=LEPAO:0000060, name=oesophageal valve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000060)>
+<Term(obo_id=LEPAO:0000055, name=valve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000055)>
+<Term(obo_id=AISM:0004076, name=gonostylus VIII, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004076)>
+<Term(obo_id=AISM:0004198, name=gonostylus IX, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004198)>
+<Term(obo_id=LEPAO:0000061, name=layer, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000061)>
+<Term(obo_id=AISM:0004077, name=ovipositor, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004077)>
+<Term(obo_id=AISM:0004195, name=mesopretarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004195)>
+<Term(obo_id=LEPAO:0000062, name=cell layer, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000062)>
+<Term(obo_id=AISM:0004074, name=ductus ejaculatorius, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004074)>
+<Term(obo_id=AISM:0004196, name=metapretarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004196)>
+<Term(obo_id=AISM:0004075, name=gonopore, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004075)>
+<Term(obo_id=LEPAO:0000068, name=peritrophins, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000068)>
+<Term(obo_id=AISM:0004190, name=protarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004190)>
+<Term(obo_id=UBERON:0002376, name=cranial muscle, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0002376)>
+<Term(obo_id=AISM:0004069, name=genital chamber, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004069)>
+<Term(obo_id=AISM:0004188, name=metatarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004188)>
+<Term(obo_id=AISM:0004067, name=bursa copulatrix, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004067)>
+<Term(obo_id=AISM:0004189, name=mesotarsus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004189)>
+<Term(obo_id=LEPAO:0000070, name=peritrophic membrane, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000070)>
+<Term(obo_id=AISM:0004068, name=gonocoxa VIII, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004068)>
+<Term(obo_id=BSPO:0000417, name=sagittal plane, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000417)>
+<Term(obo_id=AISM:0004182, name=tibio-tarsal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004182)>
+<Term(obo_id=LEPAO:0000075, name=abdominal ganglion, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000075)>
+<Term(obo_id=LEPAO:0000073, name=ganglion, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000073)>
+<Term(obo_id=AISM:0004061, name=paraproct, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004061)>
+<Term(obo_id=AISM:0004183, name=protibio-protarsal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004183)>
+<Term(obo_id=LEPAO:0000076, name=suboesophageal ganglion, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000076)>
+<Term(obo_id=AISM:0004062, name=aedeagus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004062)>
+<Term(obo_id=AISM:0004180, name=mesofemoro-mesotibial conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004180)>
+<Term(obo_id=AISM:0004178, name=femoro-tibial conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004178)>
+<Term(obo_id=LEPAO:0000077, name=anatomical system, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000077)>
+<Term(obo_id=AISM:0004181, name=metafemoro-metatibial conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004181)>
+<Term(obo_id=LEPAO:0000078, name=integumental system, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000078)>
+<Term(obo_id=AISM:0004060, name=epiproct, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004060)>
+<Term(obo_id=AISM:0004186, name=mesopleuron, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004186)>
+<Term(obo_id=LEPAO:0000071, name=basement membrane, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000071)>
+<Term(obo_id=AISM:0004065, name=phallobase, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004065)>
+<Term(obo_id=LEPAO:0000072, name=neuron, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000072)>
+<Term(obo_id=AISM:0004066, name=endophallite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004066)>
+<Term(obo_id=AISM:0004184, name=mesotibio-mesotarsal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004184)>
+<Term(obo_id=AISM:0004063, name=endophallus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004063)>
+<Term(obo_id=AISM:0004185, name=metatibio-metatarsal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004185)>
+<Term(obo_id=LEPAO:0000074, name=thoracic ganglion, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000074)>
+<Term(obo_id=AISM:0004064, name=paramere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004064)>
+<Term(obo_id=AISM:0004179, name=profemoro-protibial conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004179)>
+<Term(obo_id=AISM:0004059, name=pleural membrane, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004059)>
+<Term(obo_id=AISM:0004177, name=metatrochantero-metafemoral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004177)>
+<Term(obo_id=LEPAO:0000080, name=epidermis, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000080)>
+<Term(obo_id=LEPAO:0000053, name=epithelium, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000053)>
+<Term(obo_id=AISM:0004056, name=postabdomen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004056)>
+<Term(obo_id=LEPAO:0000081, name=endocuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000081)>
+<Term(obo_id=UBERON:0001002, name=cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001002)>
+<Term(obo_id=LEPAO:0000086, name=nervous system, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000086)>
+<Term(obo_id=AISM:0004094, name=abdominal tergite V-abdominal tergite VI conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004094)>
+<Term(obo_id=LEPAO:0000087, name=protocerebrum, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000087)>
+<Term(obo_id=LEPAO:0000110, name=neuromere, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000110)>
+<Term(obo_id=AISM:0004095, name=abdominal tergite VII, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004095)>
+<Term(obo_id=LEPAO:0000088, name=deutocerebrum, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000088)>
+<Term(obo_id=AISM:0004092, name=abdominal tergite IV-abdominal tergite V conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004092)>
+<Term(obo_id=LEPAO:0000089, name=tritocerebrum, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000089)>
+<Term(obo_id=AISM:0004093, name=abdominal tergite VI, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004093)>
+<Term(obo_id=LEPAO:0000082, name=epicuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000082)>
+<Term(obo_id=AISM:0004098, name=abdominal tergite VII-abdominal tergite VIII conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004098)>
+<Term(obo_id=LEPAO:0000083, name=exocuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000083)>
+<Term(obo_id=AISM:0004099, name=laterotergite, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004099)>
+<Term(obo_id=LEPAO:0000084, name=procuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000084)>
+<Term(obo_id=AISM:0004096, name=abdominal tergite VI-abdominal tergite VII conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004096)>
+<Term(obo_id=LEPAO:0000085, name=rectum, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000085)>
+<Term(obo_id=LEPAO:0000030, name=subdivision of digestive tract, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000030)>
+<Term(obo_id=AISM:0004097, name=abdominal tergite VIII, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004097)>
+<Term(obo_id=AISM:0004090, name=abdominal tergite IV, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004090)>
+<Term(obo_id=AISM:0004091, name=abdominal tergite V, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004091)>
+<Term(obo_id=BSPO:0000677, name=proximal margin, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000677)>
+<Term(obo_id=BSPO:0000671, name=anterior margin, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000671)>
+<Term(obo_id=PATO:0040024, name=bilaterally paired, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0040024)>
+<Term(obo_id=BSPO:0000672, name=posterior margin, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000672)>
+<Term(obo_id=LEPAO:0000090, name=nerve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000090)>
+<Term(obo_id=LEPAO:0000091, name=antennal nerve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000091)>
+<Term(obo_id=AISM:0004089, name=abdominal tergite III-abdominal tergite IV conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004089)>
+<Term(obo_id=LEPAO:0000092, name=cervical nerve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000092)>
+<Term(obo_id=BSPO:0000679, name=dorsal margin, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000679)>
+<Term(obo_id=BSPO:0000678, name=distal margin, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000678)>
+<Term(obo_id=LEPAO:0000097, name=tegumentary nerve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000097)>
+<Term(obo_id=AISM:0004083, name=oviduct, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004083)>
+<Term(obo_id=LEPAO:0000098, name=neurohemal system, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000098)>
+<Term(obo_id=AISM:0004084, name=abdominal sternite VII-gonocoxa VIII conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004084)>
+<Term(obo_id=LEPAO:0000099, name=corpora allata, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000099)>
+<Term(obo_id=PATO:0002078, name=hollow, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0002078)>
+<Term(obo_id=AISM:0004081, name=pleural wing process, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004081)>
+<Term(obo_id=AISM:0004082, name=metanoto-abdominal tergite I conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004082)>
+<Term(obo_id=LEPAO:0000093, name=labro-frontal nerve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000093)>
+<Term(obo_id=AISM:0004087, name=abdominal tergite III, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004087)>
+<Term(obo_id=LEPAO:0000094, name=labial nerve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000094)>
+<Term(obo_id=AISM:0004088, name=abdominal tergite II-abdominal tergite III conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004088)>
+<Term(obo_id=LEPAO:0000095, name=madibular nerve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000095)>
+<Term(obo_id=AISM:0004085, name=abdominal tergite II, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004085)>
+<Term(obo_id=LEPAO:0000096, name=maxillary nerve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000096)>
+<Term(obo_id=AISM:0004086, name=abdominal tergite I-abdominal tergite II conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004086)>
+<Term(obo_id=AISM:0004080, name=precoxal sulcus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004080)>
+<Term(obo_id=BSPO:0000682, name=lateral margin, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000682)>
+<Term(obo_id=BSPO:0000684, name=ventral margin, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000684)>
+<Term(obo_id=BSPO:0000683, name=medial margin, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000683)>
+<Term(obo_id=AISM:0004199, name=cercomere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004199)>
+<Term(obo_id=AISM:0004078, name=spermatheca, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004078)>
+<Term(obo_id=AISM:0004079, name=spermathecal gland, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0004079)>
+<Term(obo_id=LEPAO:0000020, name=vessel, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000020)>
+<Term(obo_id=LEPAO:0000021, name=cephalic vessel, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000021)>
+<Term(obo_id=LEPAO:0000022, name=pulsatile organ, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000022)>
+<Term(obo_id=LEPAO:0000023, name=mesoscutellar organ, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000023)>
+<Term(obo_id=LEPAO:0000028, name=dorsal vessel, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000028)>
+<Term(obo_id=LEPAO:0000029, name=ostium, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000029)>
+<Term(obo_id=LEPAO:0000024, name=metascutellar organ, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000024)>
+<Term(obo_id=LEPAO:0000025, name=frontal aortal sac, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000025)>
+<Term(obo_id=LEPAO:0000026, name=aorta, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000026)>
+<Term(obo_id=UBERON:0001001, name=chitin-based cuticle, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0001001)>
+<Term(obo_id=LEPAO:0000027, name=heart, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000027)>
+<Term(obo_id=LEPAO:0000014, name=acellular anatomical structure, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000014)>
+<Term(obo_id=AISM:0000501, name=carina, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000501)>
+<Term(obo_id=LEPAO:0000031, name=galeal trachea, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000031)>
+<Term(obo_id=LEPAO:0000032, name=tracheal system, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000032)>
+<Term(obo_id=LEPAO:0000033, name=ventral head trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000033)>
+<Term(obo_id=LEPAO:0000034, name=labial palp trachea, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000034)>
+<Term(obo_id=LEPAO:0000039, name=lateral head trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000039)>
+<Term(obo_id=LEPAO:0000035, name=antennal trachea, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000035)>
+<Term(obo_id=LEPAO:0000036, name=frontal air sac, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000036)>
+<Term(obo_id=LEPAO:0000037, name=optical air sac, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000037)>
+<Term(obo_id=LEPAO:0000038, name=dorsal head trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000038)>
+<Term(obo_id=LEPAO:0000001, name=muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000001)>
+<Term(obo_id=LEPAO:0000042, name=flight muscle trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000042)>
+<Term(obo_id=LEPAO:0000043, name=dorsal air sac, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000043)>
+<Term(obo_id=CL:0000000, name=cell, ontology_id=lepao, namespace=lepao subsets=None, short_form=CL_0000000)>
+<Term(obo_id=LEPAO:0000044, name=dorsal tracheal trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000044)>
+<Term(obo_id=CL:0000362, name=epidermal cell, ontology_id=lepao, namespace=lepao subsets=None, short_form=CL_0000362)>
+<Term(obo_id=CL:0000066, name=epithelial cell, ontology_id=lepao, namespace=lepao subsets=None, short_form=CL_0000066)>
+<Term(obo_id=LEPAO:0000045, name=cerebral trachea, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000045)>
+<Term(obo_id=LEPAO:0000040, name=leg trachea, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000040)>
+<Term(obo_id=LEPAO:0000041, name=longitudinal connecting trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000041)>
+<Term(obo_id=LEPAO:0000046, name=anterior tracheal trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000046)>
+<Term(obo_id=LEPAO:0000047, name=pleural tracheal trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000047)>
+<Term(obo_id=LEPAO:0000048, name=ventral tracheal trunk, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000048)>
+<Term(obo_id=LEPAO:0000049, name=midgut, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000049)>
+<Term(obo_id=AISM:0000523, name=dorsal postabdomen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000523)>
+<Term(obo_id=AISM:0000524, name=puncture, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000524)>
+<Term(obo_id=AISM:0000525, name=granule, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000525)>
+<Term(obo_id=AISM:0000526, name=tubercle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000526)>
+<Term(obo_id=AISM:0000527, name=spine, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000527)>
+<Term(obo_id=AISM:0000528, name=granulated, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000528)>
+<Term(obo_id=UBERON:0034925, name=anatomical collection, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0034925)>
+<Term(obo_id=AISM:0000529, name=punctate, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000529)>
+<Term(obo_id=LEPAO:0000052, name=tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000052)>
+<Term(obo_id=LEPAO:0000054, name=stomodaeal epithelium, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000054)>
+<Term(obo_id=LEPAO:0000056, name=stomodaeal valve, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000056)>
+<Term(obo_id=LEPAO:0000050, name=foregut, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000050)>
+<Term(obo_id=LEPAO:0000051, name=hindgut, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000051)>
+<Term(obo_id=LEPAO:0000057, name=ingluvies, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000057)>
+<Term(obo_id=LEPAO:0000058, name=oesophagus, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000058)>
+<Term(obo_id=LEPAO:0000059, name=pharynx, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000059)>
+<Term(obo_id=None, name=resilin (fruit fly), ontology_id=lepao, namespace=lepao subsets=None, short_form=FBgn0034157)>
+<Term(obo_id=PATO:0001154, name=elongated, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001154)>
+<Term(obo_id=LEPAO:0000100, name=corpora cardiaca, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000100)>
+<Term(obo_id=PATO:0001031, name=elasticity, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001031)>
+<Term(obo_id=LEPAO:0000105, name=neuropil, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000105)>
+<Term(obo_id=LEPAO:0000106, name=Synapse-rich neuropil, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000106)>
+<Term(obo_id=LEPAO:0000107, name=fiber-bundle neuropil, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000107)>
+<Term(obo_id=LEPAO:0000108, name=cerebral ganglion, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000108)>
+<Term(obo_id=LEPAO:0000101, name=connective tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000101)>
+<Term(obo_id=LEPAO:0000102, name=cervico-thoracic connective, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000102)>
+<Term(obo_id=LEPAO:0000114, name=connective, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000114)>
+<Term(obo_id=LEPAO:0000103, name=circumesophageal connective, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000103)>
+<Term(obo_id=LEPAO:0000104, name=tritocerebral commissure, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000104)>
+<Term(obo_id=LEPAO:0000113, name=commissure, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000113)>
+<Term(obo_id=BSPO:0000378, name=external side, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000378)>
+<Term(obo_id=BSPO:0000377, name=internal side, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000377)>
+<Term(obo_id=BSPO:0000016, name=dorsal-ventral axis, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000016)>
+<Term(obo_id=LEPAO:0000109, name=gnathal ganglion, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000109)>
+<Term(obo_id=BSPO:0000013, name=anterior-posterior axis, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000013)>
+<Term(obo_id=LEPAO:0000111, name=optic lobe, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000111)>
+<Term(obo_id=LEPAO:0000116, name=maxillary neuromere, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000116)>
+<Term(obo_id=LEPAO:0000117, name=mandibular neuromere, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000117)>
+<Term(obo_id=LEPAO:0000118, name=abdominal neuromere, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000118)>
+<Term(obo_id=LEPAO:0000119, name=abdominal neuromere 1, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000119)>
+<Term(obo_id=LEPAO:0000112, name=antennal lobe, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000112)>
+<Term(obo_id=CL:0000150, name=glandular epithelial cell, ontology_id=lepao, namespace=lepao subsets=None, short_form=CL_0000150)>
+<Term(obo_id=LEPAO:0000115, name=labial neuromere, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000115)>
+<Term(obo_id=AISM:0000534, name=conjunctival fold, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000534)>
+<Term(obo_id=BSPO:0000027, name=antero-ventral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000027)>
+<Term(obo_id=AISM:0000530, name=setose, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000530)>
+<Term(obo_id=BSPO:0000029, name=antero-lateral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000029)>
+<Term(obo_id=AISM:0000531, name=conjunctival keel, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000531)>
+<Term(obo_id=AISM:0000532, name=conjunctival tubercle, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000532)>
+<Term(obo_id=UBERON:0004175, name=internal genitalia, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0004175)>
+<Term(obo_id=LEPAO:0000120, name=abdominal neuromere 2, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000120)>
+<Term(obo_id=LEPAO:0000000, name=root node, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000000)>
+<Term(obo_id=LEPAO:0000121, name=abdominal neuromere 3, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000121)>
+<Term(obo_id=LEPAO:0000122, name=abdominal neuromere 4, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000122)>
+<Term(obo_id=LEPAO:0000127, name=abdominal ganglion 2, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000127)>
+<Term(obo_id=LEPAO:0000007, name=immaterial anatomical entity, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000007)>
+<Term(obo_id=LEPAO:0000128, name=abdominal ganglion 3, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000128)>
+<Term(obo_id=LEPAO:0000008, name=material anatomical entity, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000008)>
+<Term(obo_id=LEPAO:0000129, name=abdominal ganglion 4, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000129)>
+<Term(obo_id=LEPAO:0000009, name=skeletal musculature, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000009)>
+<Term(obo_id=LEPAO:0000002, name=visceral muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000002)>
+<Term(obo_id=LEPAO:0000123, name=abdominal neuromere 5, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000123)>
+<Term(obo_id=LEPAO:0000003, name=cardiac muscle tissue, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000003)>
+<Term(obo_id=LEPAO:0000124, name=abdominal neuromere 6, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000124)>
+<Term(obo_id=LEPAO:0000004, name=cellular anatomical entity, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000004)>
+<Term(obo_id=LEPAO:0000125, name=abdominal neuromere 7, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000125)>
+<Term(obo_id=LEPAO:0000005, name=myofilament, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000005)>
+<Term(obo_id=LEPAO:0000126, name=abdominal ganglion 1, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000126)>
+<Term(obo_id=BSPO:0000035, name=postero-ventral region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000035)>
+<Term(obo_id=PATO:0002228, name=acuminate, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0002228)>
+<Term(obo_id=AISM:0000200, name=gonocoxa IX, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000200)>
+<Term(obo_id=AISM:0000201, name=abdominal tergite IX-gonocoxa IX conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000201)>
+<Term(obo_id=LEPAO:0000130, name=abdominal ganglion 5, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000130)>
+<Term(obo_id=LEPAO:0000010, name=molecular entity, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000010)>
+<Term(obo_id=LEPAO:0000131, name=abdominal ganglion 6, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000131)>
+<Term(obo_id=LEPAO:0000132, name=abdominal ganglion 7, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000132)>
+<Term(obo_id=LEPAO:0000012, name=actin, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000012)>
+<Term(obo_id=LEPAO:0000017, name=artery, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000017)>
+<Term(obo_id=LEPAO:0000018, name=antennal artery, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000018)>
+<Term(obo_id=LEPAO:0000019, name=eye artery, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000019)>
+<Term(obo_id=LEPAO:0000013, name=myosin, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000013)>
+<Term(obo_id=UBERON:0005157, name=epithelial fold, ontology_id=lepao, namespace=lepao subsets=None, short_form=UBERON_0005157)>
+<Term(obo_id=LEPAO:0000016, name=chitin, ontology_id=lepao, namespace=lepao subsets=None, short_form=LEPAO_0000016)>
+<Term(obo_id=AISM:0000104, name=basal metacoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000104)>
+<Term(obo_id=AISM:0000105, name=epipharynx, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000105)>
+<Term(obo_id=AISM:0000106, name=basal procoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000106)>
+<Term(obo_id=AISM:0000107, name=insect head, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000107)>
+<Term(obo_id=AISM:0000108, name=insect thorax, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000108)>
+<Term(obo_id=AISM:0000109, name=insect abdomen, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000109)>
+<Term(obo_id=AISM:0000100, name=pronoto-mesonotal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000100)>
+<Term(obo_id=AISM:0000101, name=pronoto-mesopectal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000101)>
+<Term(obo_id=AISM:0000103, name=basal mesocoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000103)>
+<Term(obo_id=PATO:0002021, name=conical, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0002021)>
+<Term(obo_id=PATO:0001171, name=elastic, ontology_id=lepao, namespace=lepao subsets=None, short_form=PATO_0001171)>
+<Term(obo_id=AISM:0000126, name=socket membrane, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000126)>
+<Term(obo_id=BSPO:0000112, name=ventro-medial region, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000112)>
+<Term(obo_id=AISM:0000120, name=propleuro-procoxal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000120)>
+<Term(obo_id=AISM:0000121, name=mesosternum, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000121)>
+<Term(obo_id=AISM:0000123, name=procoxal-protrochanteral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000123)>
+<Term(obo_id=AISM:0000124, name=mesocoxal-mesotrochanteral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000124)>
+<Term(obo_id=AISM:0000125, name=metacoxal-metatrochanteral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000125)>
+<Term(obo_id=AISM:0000115, name=pedicellus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000115)>
+<Term(obo_id=AISM:0000116, name=flagellomere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000116)>
+<Term(obo_id=AISM:0000117, name=first flagellomere, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000117)>
+<Term(obo_id=AISM:0000118, name=pedicellar-first flagellomeral conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000118)>
+<Term(obo_id=AISM:0000119, name=metapleuron, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000119)>
+<Term(obo_id=BSPO:0000000, name=left side, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000000)>
+<Term(obo_id=AISM:0000110, name=cardo-stipital conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000110)>
+<Term(obo_id=AISM:0000111, name=stipes, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000111)>
+<Term(obo_id=AISM:0000112, name=cranio-antennal conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000112)>
+<Term(obo_id=BSPO:0000007, name=right side, ontology_id=lepao, namespace=lepao subsets=None, short_form=BSPO_0000007)>
+<Term(obo_id=AISM:0000113, name=scapus, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000113)>
+<Term(obo_id=AISM:0000114, name=scapal-pedicellar conjunctiva, ontology_id=lepao, namespace=lepao subsets=None, short_form=AISM_0000114)>
