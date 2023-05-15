@@ -6,8 +6,6 @@
 Things to address:
 Does it work with .obo files?
 """
-import itertools
-import os
 import pronto
 from pronto.relationship import Relationship, RelationshipData
 def prontoRelations(ontoLibrary):
